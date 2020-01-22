@@ -1,0 +1,302 @@
+
+
+
+
+#EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",3 HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/3hd.smil/playlist.m3u8
+ 
+#EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/ch5.png",5 HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/5hd.smil/playlist.m3u8
+ 
+#EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/ch7.png",7 HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/7hd.smil/playlist.m3u8
+ 
+#EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/mcothd.smil/playlist.m3u8
+ 
+#EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/nbt.png",NBT
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/nbt.smil/playlist.m3u8
+ 
+#EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/thairath.png",THAIRATH HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv32_thairahttvhd/playlist.m3u8
+ 
+#EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/amarin.png",AMARIN HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/amarinhd.smil/playlist.m3u8
+ 
+#EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/onehd.png",ONE HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/onehd.smil/playlist.m3u8
+ 
+#EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/pptv.png",PPTV HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/pptvhd.smil/playlist.m3u8
+ 
+#EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/thaipbs.png",THAIPBS
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/thaipbs.smil/playlist.m3u8
+ 
+#EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/workpoint.png",WORKPOINT
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/workpointtv.smil/playlist.m3u8
+ 
+#EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/mono29.png",MONO29
+https://www.livedoomovie.com/02_MONO_720p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/mono29.png",MONO29
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/mono29.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Free TV"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/MONO_Plus.png",MONO PLUS
+https://www.livedoomovie.com/02_MONO_Plus_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Free TV", MONO_Plus
+https://www.livedoomovie.com/02_MONO_Plus_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/true4u.png",TRUE4U
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/true4u.smil/playlist.m3u8
+ 
+#EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/gmm.png",GMM25
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/gmmchannel.smil/playlist.m3u8
+ 
+ 
+#EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/ch8.png",CH8
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/ch8.smil/playlist.m3u8
+ 
+#EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/tnn24.png",TNN24
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/tnn24.smil/playlist.m3u8
+ 
+#EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/nation.png",NATION CHANNEL
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/nation.smil/playlist.m3u8
+ 
+#EXTINF:-1 group-title="Free TV"tvg-logo="https://imgcloud.fwiptv.cc/postor/20181211134819NEW-TV.jpg",NEW TV
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/newstv.smil/playlist.m3u8
+ 
+#EXTINF:-1 group-title="Free TV"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/TPTV.png",TPTV
+https://live.youlive-cdn.com/02_TPTV_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Free TV", FANMUSICHD
+https://www.livedoomovie.com/02_FANMUSICHD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Free TV", SabaideeTV
+https://www.livedoomovie.com/02_SabaideeTV_720p/chunklist.m3u8
+ 
+
+# MOVIE
+
+#EXTINF:-1 group-title="MOVIE"tvg-logo="https://www.doohdbox.com/assets/20170708213058567372301.jpg",Movies 1
+http://27.254.149.109:8081/live/movie1.stream/playlist.m3u8
+ 
+#EXTINF:-1 group-title="MOVIE"tvg-logo="https://www.doohdbox.com/assets/201707082131441239733741.jpg",Movies 2
+http://27.254.149.109:8081/live/movie2.stream/playlist.m3u8
+ 
+#EXTINF:-1 group-title="MOVIE"tvg-logo="https://www.doohdbox.com/assets/20170708213208929757171.jpg",Movies 3
+http://27.254.149.109:8081/live/movie3.stream/playlist.m3u8
+ 
+#EXTINF:-1 group-title="MOVIE"tvg-logo="http://image.free.in.th/v/2013/iy/180723045313.jpg",UP Movies
+http://27.254.149.109:8081/live/upmovie.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIE", MONO Plus
+http://iliketot.dyndns.tv/9623847065ba466e90632cf686fade0b.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1 group-title="MOVIE", Thai Station
+http://iliketot.dyndns.tv/768ab5caf16e44689c3a75e6a3f57b5c.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1 group-title="MOVIE", Fashion TV (SD)
+http://iliketot.dyndns.tv/df468a12ae6547de9637486bdc2025aa.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1 group-title="MOVIE", FX HD
+http://iliketot.dyndns.tv/2e0e4b05aa6e428593f3b45b710045b7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1 group-title="MOVIE", KIX HD
+http://iliketot.dyndns.tv/e584e0adae6440eab366f5fe3a824f91.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1 group-title="MOVIE", Thrill
+http://210.210.155.35/qwr9ew/s/s34/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1 group-title="MOVIE", Celestial Classic Movies (CCM)
+http://iliketot.dyndns.tv/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1 group-title="MOVIE", Fox Life
+http://iliketot.dyndns.tv/65f7358b813048a0898f5677e1793cf9.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1 group-title="MOVIE", Comedy Central HD
+http://iliketot.dyndns.tv/2f18d4ba25224edaa8bb9aac94b00d4f.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1 group-title="MOVIE", Universal Channel HD
+http://iliketot.dyndns.tv/a7105ed1bb0a44bba1f4f71f2352b892.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1 group-title="MOVIE", Syfy HD
+http://iliketot.dyndns.tv/71f197de056e499a85265c03b44bdab1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1 group-title="MOVIE", Fox Crime HD (Eng)
+http://iliketot.dyndns.tv/48773319e9324602b258e3f1d33ec111.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1 group-title="MOVIE", Fox Crime HD (Thai)
+http://iliketot.dyndns.tv/5028f7ff1d1b4d5f8189690233364737.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1 group-title="MOVIE", Fox Action Movies HD(Thai)
+http://iliketot.dyndns.tv/6744e98748214c32912a46d1c7277d55.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1 group-title="MOVIE", Fox Action Movies HD(English)
+http://iliketot.dyndns.tv/206105b34a1c44b886c6cd3c59105803.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1 group-title="MOVIE", Fox Thai (Thai)
+http://iliketot.dyndns.tv/63cbfb466fe644dda11a8e109611a5cd.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1 group-title="MOVIE", Fox Thai (Eng)
+http://iliketot.dyndns.tv/d0bfb50bee3741a09c53f8099a64ad52.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tfilm.jpg" group-title="MOVIE" ,True Film HD1
+https://www.livedoomovie.com/02_TrueFilmHD1_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tfilm.jpg" group-title="MOVIE" ,True Film HD2
+https://www.livedoomovie.com/02_TrueFilmHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-hbo.png" group-title="MOVIE" ,HBO HD
+https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-hbohits.png" group-title="MOVIE" ,HBO Hit HD
+https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-hbosignature.png" group-title="MOVIE" ,HBO Signature
+https://www.livedoomovie.com/02_HBOSignature_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20160920164409FX.jpg" group-title="MOVIE" ,FX Thailand
+https://www.livedoomovie.com/02_FXThailand_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-fox.png" group-title="MOVIE" ,Fox Thai
+https://www.livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png" group-title="MOVIE" ,FOX MOVIES PREMIUM TH
+https://www.livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png" group-title="MOVIE" ,FOX MOVIES PREMIUM En
+https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png" group-title="MOVIE" ,FOX ACTION Th
+https://www.livedoomovie.com/02_FoxActionHD_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png" group-title="MOVIE" ,FOX ACTION En
+https://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxfamily.png" group-title="MOVIE" ,Fox Family Thai
+https://www.livedoomovie.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxfamily.png" group-title="MOVIE" ,Fox Family En
+https://www.livedoomovie.com/02_FoxFamilyHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxcrime.jpg" group-title="MOVIE" ,FoxCrimeHD TH
+https://www.livedoomovie.com/02_FoxCrimeHD_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxcrime.jpg" group-title="MOVIE" ,FoxCrimeHD EN
+https://www.livedoomovie.com/02_FoxCrimeHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-screenred.jpg" group-title="MOVIE" ,RedbyHBO HD
+https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20190305162859AXN.jpg" group-title="MOVIE" ,AXN HD
+https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/2017012101355220160909202833Warner%20TV.jpg" group-title="MOVIE" ,WARNER TV HD
+https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20180504023519Paramount%20Channel.jpg" group-title="MOVIE" ,Paramount Channel
+https://free2.fwstream.com:1215/freelive-edge/_definst_/paramountchannel/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-kix.png" group-title="MOVIE" ,KIX HD
+https://free.fwstream.com:1215/freelive-edge/_definst_/kixhd/chunklist.m3u8
+
+
+
+#SPORT
+
+
+
+#EXTINF:-1 group-title="Sport", PremierHD1
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://teevee-hd.com/img/premierfootball1.png",สำรอง HD1
+http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Sport", PremierHD2
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://teevee-hd.com/img/premierfootball2.png",สำรอง HD2
+http://103.208.24.234:1935/thaisport/epl-2.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Sport", PremierHD3
+https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://teevee-hd.com/img/premierfootball3.png",สำรอง HD3
+http://103.208.24.234:1935/thaisport/epl-3.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Sport", PremierHD4
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://teevee-hd.com/img/premierfootball4.png",สำรอง HD4
+http://103.208.24.234:1935/thaisport/epl-4.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Sport", PremierHD5
+https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://teevee-hd.com/img/premierfootball5.png",สำรอง HD5
+http://103.208.24.234:1935/thaisport/epl-5.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Sport", SkynetsportHD
+https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport", Skynetsport1
+https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport", Skynetsport2
+https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport", Skynetsport3
+https://www.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport", Skynetsport4
+https://www.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport", Skynetsport5
+https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport", Skynetsport6
+https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport", Bein1
+https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport", Bein2
+https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport", True Sport HD1
+https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport", True Sport HD2
+https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport", True Sport HD3
+https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport", True Sport HD4
+https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport", Fox Sport1
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport", Fox Sport2
+https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport", Fox Sport3
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport", Tennis HD
+https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport", NBA HD
+https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport", NFLNetwork
+https://www.livedoomovie.com/02_NFLNetwork_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport", Golf HD
+https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport", T_Sports
+https://www.livedoomovie.com/02_T_Sports_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport"tvg-logo="http://bit.ly/2nEH3Z5",Olympic Channel 1
+https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1 group-title="Sport"tvg-logo="http://bit.ly/2nEH3Z5",Olympic Channel 2
+https://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
+#EXTINF:-1 group-title="Sport"tvg-logo="http://bit.ly/2nEH3Z5",Olympic Channel 3
+https://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
+#EXTINF:-1 group-title="Sport"tvg-logo="http://bit.ly/2nEH3Z5",Olympic Channel 4
+https://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
+#EXTINF:-1 group-title="Sport"tvg-logo="http://bit.ly/2nEH3Z5",Olympic Channel 5
+https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
+#EXTINF:-1 group-title="Sport"tvg-logo="http://bit.ly/2nEH3Z5",Olympic Channel 6
+https://ott-live.olympicchannel.com/out/u/OC6_1.m3u8
+#EXTINF:-1 group-title="Sport"tvg-logo="http://bit.ly/2nEH3Z5",Olympic Channel 7
+https://ott-live.olympicchannel.com/out/u/OC7_1.m3u8
+#EXTINF:-1 group-title="Sport"tvg-logo="http://bit.ly/2nEH3Z5",Olympic Channel 8
+https://ott-live.olympicchannel.com/out/u/OC8_1.m3u8
+#EXTINF:-1 group-title="Sport"tvg-logo="http://bit.ly/2nEH3Z5",Olympic Channel 9
+https://ott-live.olympicchannel.com/out/u/OC9_1.m3u8
+#EXTINF:-1 group-title="Sport"tvg-logo="http://bit.ly/2nEH3Z5",Olympic Channel 10
+https://ott-live.olympicchannel.com/out/u/OC10_1.m3u8
+#EXTINF:-1 group-title="Sport"tvg-logo="http://bit.ly/2nEH3Z5",Olympic Channel 11
+https://ott-live.olympicchannel.com/out/u/OC11_1.m3u8
+#EXTINF:-1 group-title="Sport"tvg-logo="http://bit.ly/2nEH3Z5",Olympic Channel 12
+https://ott-live.olympicchannel.com/out/u/OC12_1.m3u8
+
+
+
+
+
+
+
