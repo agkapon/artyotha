@@ -106,7 +106,7 @@ https://www.doofree88.com/streaming/rs-arena5_480/index.m3u8
 #EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/fox-hd.png",Fox HD
 https://www.doofree88.com/streaming/hd-fox_720/index.m3u8
 #EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/fox-action-movies-th.png",Fox Action Movies (TH)
-https://www.doofree88.com/streaming/hd-foxaction_720/index.m3u8
+http://host4.dynns.com/stream/6744e98748214c32912a46d1c7277d55.m3u8
 #EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/fox-movies-premium-th.png",Fox Movies Premium (TH)
 https://www.doofree88.com/streaming/hd-foxpremium_720/index.m3u8
 #EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/hbo-english.jpg",HBO (Thai)
@@ -134,9 +134,9 @@ https://www.doofree88.com/streaming/hd-comedycentral_720/index.m3u8
 #EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/YcuBg2IrYxaOznQqxJLIICPTVXKzL0DjCEkjEUdq.png",TVN
 https://www.doofree88.com/streaming/hd-tvn_480/index.m3u8
 #EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/aLDjKHW2HBKZvPOBGivsC40REeMZEZxHbeQRDFc8.jpg",Fox Crime
-https://www.doofree88.com/streaming/hd-foxcrimeeng_720/index.m3u8
+http://host4.dynns.com/stream/5028f7ff1d1b4d5f8189690233364737.m3u8
 #EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/lAEDRXvIp1nu4NofdGRtGPM8F89Ap4gI5IXmKr5M.png",Fox Thai
-https://www.doofree88.com/streaming/sd-fox_720/index.m3u8
+http://host4.dynns.com/stream/63cbfb466fe644dda11a8e109611a5cd.m3u8
 #EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/UnFCrgcOuyQ3JoXKMSzpaTscsKX3tWsydPiDV7Mu.png",Fox Family Movies
 https://www.doofree88.com/streaming/hd-foxfamily_720/index.m3u8
 #EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/9qmrSWdLyKGghSgAdoh8hw9i6kEQWtr2VWXSObtI.jpg",Film HD
@@ -146,15 +146,10 @@ https://www.doofree88.com/streaming/hd-tfilm2_720/index.m3u8
 #EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/KOjCASg5FlaHOo2s9cEn9cc5tdL7ehybO1FaXmn8.png",Mono Plus
 https://www.doofree88.com/streaming/sd-monoplus_480/index.m3u8
 #EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/wyEZrYsUafrt9NzJkJIB473kAWO9J6Uovwq48XTv.png",Fox Life
-https://www.doofree88.com/streaming/hd-foxlife_720/index.m3u8
+http://host4.dynns.com/stream/65f7358b813048a0898f5677e1793cf9.m3u8
 #EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/Cp06o22CVWzWsoBh7TpMNBBAIWmKiMdp30aGIRwc.png",Thrill
-https://www.doofree88.com/streaming/sd-thrill_480/index.m3u8
-#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/iZB8pnOPpPEcswklDGzhY5kbTkKk4tCnmItKgHtc.png",Star Chinese Legends
-https://www.doofree88.com/streaming/sd-starchineselegend_480/index.m3u8
-#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/ntVE1sTS89xUkrgRqWKH6hNLVgtu2zqcAi8kFFBm.png",Celestial Classic Movies
-https://www.doofree88.com/streaming/sd-celestial_480/index.m3u8
-#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/yEjduPUHEUuA3wvhqZxUUmuqDtnFk1YH0iHW4VPk.png",Z Nung
-https://www.doofree88.com/streaming/sd-znung_480/index.m3u8
+http://host4.dynns.com/stream/c316ed9333e54442b25077f0bb3cc269.m3u8
+
 
 
 #SPORT
