@@ -156,38 +156,30 @@ http://host4.dynns.com/stream/c316ed9333e54442b25077f0bb3cc269.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/pml1.png" group-title="Sport",PremierHD1 
 http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://www.doofree88.com/storage/live/1N4egOHdQMVsguQ8cL71mBaAretIq6x7si4Ij134.png",PremierHD 1
-https://www.doofree88.com/streaming/epl-x1_720/index.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/epl-1.png",True Premiere Football1 HD
+#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/epl-1.png",Premiere HD1
 http://160.119.77.50/iptv/epl-1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/pml2.png" group-title="Sport",PremierHD2
 http://103.208.24.234:1935/thaisport/epl-2.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://www.doofree88.com/storage/live/aR6co494MMddSe7BDmsv20oT8NYGvhXN6RcCgW6S.png",PremierHD 2
-https://www.doofree88.com/streaming/epl-x2_720/index.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/epl-2.png",True Premiere Football2 HD
+#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/epl-2.png",Premiere HD2
 http://160.119.77.50/iptv/epl-2.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/pml3.png" group-title="Sport",PremierHD3
 http://103.208.24.234:1935/thaisport/epl-3.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://www.doofree88.com/storage/live/cTPAhptOIi9yB7Lhrh55Y6C47AL1ShWUu6LBgoom.png",PremierHD 3
-https://www.doofree88.com/streaming/epl-x3_720/index.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/epl-3.png",True Premiere Football3 HD
+#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/epl-3.png",Premiere HD3
 http://160.119.77.50/iptv/epl-3.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/pml4.png" group-title="Sport",PremierHD4
 http://103.208.24.234:1935/thaisport/epl-4.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://www.doofree88.com/storage/live/4uzhoi4RaAoLfifFJ4iV4h3zkwiyeq4Ky6HeiCID.png",PremierHD 4
-https://www.doofree88.com/streaming/epl-x4_720/index.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/epl-4.png",True Premiere Football4 HD
+#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/epl-4.png",Premiere HD4
 http://160.119.77.50/iptv/epl-4.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/pml5.png" group-title="Sport",PremierHD5
 http://103.208.24.234:1935/thaisport/epl-5.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/epl-5.png",True Premiere Football5 HD
+#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/epl-5.png",Premiere HD5
 http://160.119.77.50/iptv/epl-5.stream/playlist.m3u8
 
 
