@@ -85,28 +85,30 @@ https://live.youlive-cdn.com/02_TPTV_480p/chunklist.m3u8
 
 # MOVIE
 
-#EXTINF:-1 group-title="MOVIE"tvg-logo="https://www.doohdbox.com/assets/20170708213058567372301.jpg",Movies 1
+#EXTINF:-1 group-title="ภาพยนต์"tvg-logo="https://www.doohdbox.com/assets/20170708213058567372301.jpg",Movies 1
 http://27.254.149.109:8081/live/movie1.stream/playlist.m3u8
  
-#EXTINF:-1 group-title="MOVIE"tvg-logo="https://www.doohdbox.com/assets/201707082131441239733741.jpg",Movies 2
+#EXTINF:-1 group-title="ภาพยนต์"tvg-logo="https://www.doohdbox.com/assets/201707082131441239733741.jpg",Movies 2
 http://27.254.149.109:8081/live/movie2.stream/playlist.m3u8
  
-#EXTINF:-1 group-title="MOVIE"tvg-logo="https://www.doohdbox.com/assets/20170708213208929757171.jpg",Movies 3
+#EXTINF:-1 group-title="ภาพยนต์"tvg-logo="https://www.doohdbox.com/assets/20170708213208929757171.jpg",Movies 3
 http://27.254.149.109:8081/live/movie3.stream/playlist.m3u8
  
-#EXTINF:-1 group-title="MOVIE"tvg-logo="http://image.free.in.th/v/2013/iy/180723045313.jpg",UP Movies
+#EXTINF:-1 group-title="ภาพยนต์"tvg-logo="http://image.free.in.th/v/2013/iy/180723045313.jpg",UP Movies
 http://27.254.149.109:8081/live/upmovie.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIE"tvg-logo="https://www.doohdbox.com/assets/20170709090502720443899.jpg",CTB
+#EXTINF:-1 group-title="ภาพยนต์"tvg-logo="https://www.doohdbox.com/assets/20170709090502720443899.jpg",CTB
 http://vip.login.in.th:1935/CTB/CTB/chunklist_w1645421209.m3u8
-
-
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/fox-action-movies-th.png",Fox Action Movies (TH)
+http://host4.dynns.com/stream/6744e98748214c32912a46d1c7277d55.m3u8
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/Cp06o22CVWzWsoBh7TpMNBBAIWmKiMdp30aGIRwc.png",Thrill
+http://host4.dynns.com/stream/c316ed9333e54442b25077f0bb3cc269.m3u8
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/wyEZrYsUafrt9NzJkJIB473kAWO9J6Uovwq48XTv.png",Fox Life
+http://host4.dynns.com/stream/65f7358b813048a0898f5677e1793cf9.m3u8
 
 https://www.doofree88.com/streaming/rs-arena5_480/index.m3u8
 #EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/fox-hd.png",Fox HD
 https://www.doofree88.com/streaming/hd-fox_720/index.m3u8
-#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/fox-action-movies-th.png",Fox Action Movies (TH)
-http://host4.dynns.com/stream/6744e98748214c32912a46d1c7277d55.m3u8
 #EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/fox-movies-premium-th.png",Fox Movies Premium (TH)
 https://www.doofree88.com/streaming/hd-foxpremium_720/index.m3u8
 #EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/hbo-english.jpg",HBO (Thai)
@@ -145,10 +147,8 @@ https://www.doofree88.com/streaming/hd-tfilm_720/index.m3u8
 https://www.doofree88.com/streaming/hd-tfilm2_720/index.m3u8
 #EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/KOjCASg5FlaHOo2s9cEn9cc5tdL7ehybO1FaXmn8.png",Mono Plus
 https://www.doofree88.com/streaming/sd-monoplus_480/index.m3u8
-#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/wyEZrYsUafrt9NzJkJIB473kAWO9J6Uovwq48XTv.png",Fox Life
-http://host4.dynns.com/stream/65f7358b813048a0898f5677e1793cf9.m3u8
-#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/Cp06o22CVWzWsoBh7TpMNBBAIWmKiMdp30aGIRwc.png",Thrill
-http://host4.dynns.com/stream/c316ed9333e54442b25077f0bb3cc269.m3u8
+
+
 
 
 
