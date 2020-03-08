@@ -2,80 +2,80 @@
 
 
 
-#EXTINF:-1 group-title="Digital TV 1"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",3 HD
+#EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",3 HD
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/3hd.smil/playlist.m3u8
 
  
-#EXTINF:-1 group-title="Digital TV 1"tvg-logo="https://teevee-hd.com/img/ch5.png",5 HD
+#EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/ch5.png",5 HD
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/5hd.smil/playlist.m3u8
 
  
-#EXTINF:-1 group-title="Digital TV 1"tvg-logo="https://teevee-hd.com/img/ch7.png",7 HD
+#EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/ch7.png",7 HD
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/7hd.smil/playlist.m3u8
 
  
-#EXTINF:-1 group-title="Digital TV 1"tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT HD
+#EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT HD
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/mcothd.smil/playlist.m3u8
 
  
-#EXTINF:-1 group-title="Digital TV 1"tvg-logo="https://teevee-hd.com/img/nbt.png",NBT
+#EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/nbt.png",NBT
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/nbt.smil/playlist.m3u8
 
  
-#EXTINF:-1 group-title="Digital TV 1"tvg-logo="https://teevee-hd.com/img/thairath.png",THAIRATH HD
+#EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/thairath.png",THAIRATH HD
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv32_thairahttvhd/playlist.m3u8
 
  
-#EXTINF:-1 group-title="Digital TV 1"tvg-logo="https://teevee-hd.com/img/amarin.png",AMARIN HD
+#EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/amarin.png",AMARIN HD
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/amarinhd.smil/playlist.m3u8
 
  
-#EXTINF:-1 group-title="Digital TV 1"tvg-logo="https://teevee-hd.com/img/onehd.png",ONE HD
+#EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/onehd.png",ONE HD
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/onehd.smil/playlist.m3u8
 
  
-#EXTINF:-1 group-title="Digital TV 1"tvg-logo="https://teevee-hd.com/img/pptv.png",PPTV HD
+#EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/pptv.png",PPTV HD
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/pptvhd.smil/playlist.m3u8
 
  
-#EXTINF:-1 group-title="Digital TV 1"tvg-logo="https://teevee-hd.com/img/thaipbs.png",THAIPBS
+#EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/thaipbs.png",THAIPBS
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/thaipbs.smil/playlist.m3u8
 
  
-#EXTINF:-1 group-title="Digital TV 1"tvg-logo="https://teevee-hd.com/img/workpoint.png",WORKPOINT
+#EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/workpoint.png",WORKPOINT
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/workpointtv.smil/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Digital TV 1"tvg-logo="https://teevee-hd.com/img/mono29.png",MONO29
+#EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/mono29.png",MONO29
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/mono29.smil/playlist.m3u8
 
  
-#EXTINF:-1 group-title="Digital TV 1"tvg-logo="https://teevee-hd.com/img/true4u.png",TRUE4U
+#EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/true4u.png",TRUE4U
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/true4u.smil/playlist.m3u8
 
  
-#EXTINF:-1 group-title="Digital TV 1"tvg-logo="https://teevee-hd.com/img/gmm.png",GMM25
+#EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/gmm.png",GMM25
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/gmmchannel.smil/playlist.m3u8
 
  
  
-#EXTINF:-1 group-title="Digital TV 1"tvg-logo="https://teevee-hd.com/img/ch8.png",CH8
+#EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/ch8.png",CH8
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/ch8.smil/playlist.m3u8
 
  
-#EXTINF:-1 group-title="Digital TV 1"tvg-logo="https://teevee-hd.com/img/tnn24.png",TNN24
+#EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/tnn24.png",TNN24
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/tnn24.smil/playlist.m3u8
 
  
-#EXTINF:-1 group-title="Digital TV 1"tvg-logo="https://teevee-hd.com/img/nation.png",NATION CHANNEL
+#EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/nation.png",NATION CHANNEL
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/nation.smil/playlist.m3u8
 
  
-#EXTINF:-1 group-title="Digital TV 1"tvg-logo="https://imgcloud.fwiptv.cc/postor/20181211134819NEW-TV.jpg",NEW TV
+#EXTINF:-1 group-title="Free TV"tvg-logo="https://imgcloud.fwiptv.cc/postor/20181211134819NEW-TV.jpg",NEW TV
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/newstv.smil/playlist.m3u8
 
  
-#EXTINF:-1 group-title="Digital TV 1"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/TPTV.png",TPTV
+#EXTINF:-1 group-title="Free TV"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/TPTV.png",TPTV
 https://live.youlive-cdn.com/02_TPTV_480p/chunklist.m3u8
 
 
@@ -429,6 +429,82 @@ http://cdn856.stm.trueid.net/live3/007_th_m_high_tidapp.smil/playlist.m3u8
 http://cdn856.stm.trueid.net/live3/101_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/01393493-1e29-4eb5-869b-1bd3e60b7b76.png",Cartoon Network
 http://cdn856.stm.trueid.net/live2/192_th_m_high_tidapp.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Anal
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Gay
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",MILF
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",POV
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AST TV 1
+https://www.ast.tv/stream/1/ultra.m3u8
+#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AST TV 2
+https://www.ast.tv/stream/2/ultra.m3u8
+#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Babestation24
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Korean Adult TV
+http://122.38.74.172:9981/stream/channelid/1463854277
+#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
+#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Miami TV Live
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
+#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Miami TV
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
+#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Midnight TV
+http://112.148.183.161:9981/stream/channelid/96001658
+#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Viki
+http://112.148.183.161:9981/stream/channelid/488704961
+#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Visit-X TV
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",NYX Media 1
+https://cdn1.ibizastream.biz:441/free/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",NYX Media 2
+https://cdn1.ibizastream.biz:441/free/2/playlist.m3u8
 
 
 
