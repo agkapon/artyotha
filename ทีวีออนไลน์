@@ -87,67 +87,22 @@ https://live.youlive-cdn.com/02_TPTV_480p/chunklist.m3u8
 
 #EXTINF:-1 group-title="ภาพยนต์"tvg-logo="https://www.doohdbox.com/assets/20170708213058567372301.jpg",Movies 1
 http://27.254.149.109:8081/live/movie1.stream/playlist.m3u8
- 
 #EXTINF:-1 group-title="ภาพยนต์"tvg-logo="https://www.doohdbox.com/assets/201707082131441239733741.jpg",Movies 2
 http://27.254.149.109:8081/live/movie2.stream/playlist.m3u8
- 
 #EXTINF:-1 group-title="ภาพยนต์"tvg-logo="https://www.doohdbox.com/assets/20170708213208929757171.jpg",Movies 3
 http://27.254.149.109:8081/live/movie3.stream/playlist.m3u8
- 
 #EXTINF:-1 group-title="ภาพยนต์"tvg-logo="http://image.free.in.th/v/2013/iy/180723045313.jpg",UP Movies
 http://27.254.149.109:8081/live/upmovie.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="ภาพยนต์"tvg-logo="https://www.doohdbox.com/assets/20170709090502720443899.jpg",CTB
 http://vip.login.in.th:1935/CTB/CTB/chunklist_w1645421209.m3u8
-#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/fox-action-movies-th.png",Fox Action Movies (TH)
-http://host4.dynns.com/stream/6744e98748214c32912a46d1c7277d55.m3u8
-#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/Cp06o22CVWzWsoBh7TpMNBBAIWmKiMdp30aGIRwc.png",Thrill
-http://host4.dynns.com/stream/c316ed9333e54442b25077f0bb3cc269.m3u8
-#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/wyEZrYsUafrt9NzJkJIB473kAWO9J6Uovwq48XTv.png",Fox Life
-http://host4.dynns.com/stream/65f7358b813048a0898f5677e1793cf9.m3u8
-
-https://www.doofree88.com/streaming/rs-arena5_480/index.m3u8
-#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/fox-hd.png",Fox HD
-https://www.doofree88.com/streaming/hd-fox_720/index.m3u8
-#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/fox-movies-premium-th.png",Fox Movies Premium (TH)
-https://www.doofree88.com/streaming/hd-foxpremium_720/index.m3u8
-#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/hbo-english.jpg",HBO (Thai)
-https://www.doofree88.com/streaming/hd-hbo-th_480/index.m3u8
-#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/warner-tv-hd.png",Warner TV (HD)
-https://www.doofree88.com/streaming/hd-warnertv_720/index.m3u8
-#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/bzmjALRvuNOOg3nXV1ShWMHzJ2y2nhG53UYjxpTn.png",AXN HD
-https://www.doofree88.com/streaming/hd-axn_720/index.m3u8
-#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/gu3DRQdle7xPttwMgHXabXzoi4GFCs4UKTCRWFd3.jpg",FX HD
-https://www.doofree88.com/streaming/hd-fxeng_480/index.m3u8
-#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/4clAGdMwizW2sp9gWlDNTVRDRze00uG7cqXHo7di.jpg",HBO Red
-https://www.doofree88.com/streaming/sd-redalt_480/index.m3u8
-#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/BhwjQsCEiOTNEO8NZwQtzoQtkTkBmxodv1pBPcHa.png",Movie Hits
-https://www.doofree88.com/streaming/sd-moviehits_480/index.m3u8
-#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/l7rGApqqdYf65HxB9u1CprNqSt80Ipp4QEAGIcQH.png",Thai Film
-https://www.doofree88.com/streaming/sd-thaifilm_480/index.m3u8
-#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/IadKP0HGGKXjQXKNj8ZCW4Kk4hT6PwhCbWVD9fMP.png",Film Asia
-https://www.doofree88.com/streaming/sd-filmasia_480/index.m3u8
-#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/3zZzoIQEwwib4mRw4PhKS28py6f5FgfeBL0At4dO.png",Asian Series
-https://www.doofree88.com/streaming/sd-asianseriesalt_480/index.m3u8
-#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/NqGTsPVIbsEAZHhInyGzaIJQliHNS0x80xzikAuY.png",X-Zyte HD
-https://www.doofree88.com/streaming/hd-xzyte_720/index.m3u8
-#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/7Fr0GIpJu7kNMaCRREN6bWTeS3fpRNnhStyytFB9.png",Comedy Central
-https://www.doofree88.com/streaming/hd-comedycentral_720/index.m3u8
-#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/YcuBg2IrYxaOznQqxJLIICPTVXKzL0DjCEkjEUdq.png",TVN
-https://www.doofree88.com/streaming/hd-tvn_480/index.m3u8
-#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/aLDjKHW2HBKZvPOBGivsC40REeMZEZxHbeQRDFc8.jpg",Fox Crime
-http://host4.dynns.com/stream/5028f7ff1d1b4d5f8189690233364737.m3u8
-#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/lAEDRXvIp1nu4NofdGRtGPM8F89Ap4gI5IXmKr5M.png",Fox Thai
-http://host4.dynns.com/stream/63cbfb466fe644dda11a8e109611a5cd.m3u8
-#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/UnFCrgcOuyQ3JoXKMSzpaTscsKX3tWsydPiDV7Mu.png",Fox Family Movies
-https://www.doofree88.com/streaming/hd-foxfamily_720/index.m3u8
-#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/9qmrSWdLyKGghSgAdoh8hw9i6kEQWtr2VWXSObtI.jpg",Film HD
-https://www.doofree88.com/streaming/hd-tfilm_720/index.m3u8
-#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/pGi0l8Sh2X4kKwII7p23aqyX58nhiIAFAKL5a9C1.png",Film HD 2
-https://www.doofree88.com/streaming/hd-tfilm2_720/index.m3u8
-#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/KOjCASg5FlaHOo2s9cEn9cc5tdL7ehybO1FaXmn8.png",Mono Plus
-https://www.doofree88.com/streaming/sd-monoplus_480/index.m3u8
-
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://images.ufoiptv.com/channels/hd-foxaction.jpg",Fox Action Movies (TH)
+http://160.119.77.50/iptv/hd-foxaction.stream/playlist.m3u8
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://images.ufoiptv.com/channels/hd-foxpremium.jpg",Fox Movies Premium (TH)
+http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://images.ufoiptv.com/channels/hd-foxcrime.jpg",Fox Crime TH
+http://iliketot.dyndns.tv/5028f7ff1d1b4d5f8189690233364737.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://images.ufoiptv.com/channels/sd-fox.jpg",Fox Thai
+http://160.119.77.50/iptv/sd-fox.stream/playlist.m3u8
 
 
 
@@ -218,30 +173,42 @@ https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
 #EXTINF:1 group-title="Sport", FIGHT SPORTS
 http://210.210.155.35/uq2663/h/h05/01.m3u8
 
-#EXTINF:-1 group-title="Sport"tvg-logo="http://bit.ly/2nEH3Z5",Olympic Channel 1
-https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
-#EXTINF:-1 group-title="Sport"tvg-logo="http://bit.ly/2nEH3Z5",Olympic Channel 2
-https://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
-#EXTINF:-1 group-title="Sport"tvg-logo="http://bit.ly/2nEH3Z5",Olympic Channel 3
-https://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
-#EXTINF:-1 group-title="Sport"tvg-logo="http://bit.ly/2nEH3Z5",Olympic Channel 4
-https://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
-#EXTINF:-1 group-title="Sport"tvg-logo="http://bit.ly/2nEH3Z5",Olympic Channel 5
-https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
-#EXTINF:-1 group-title="Sport"tvg-logo="http://bit.ly/2nEH3Z5",Olympic Channel 6
-https://ott-live.olympicchannel.com/out/u/OC6_1.m3u8
-#EXTINF:-1 group-title="Sport"tvg-logo="http://bit.ly/2nEH3Z5",Olympic Channel 7
-https://ott-live.olympicchannel.com/out/u/OC7_1.m3u8
-#EXTINF:-1 group-title="Sport"tvg-logo="http://bit.ly/2nEH3Z5",Olympic Channel 8
-https://ott-live.olympicchannel.com/out/u/OC8_1.m3u8
-#EXTINF:-1 group-title="Sport"tvg-logo="http://bit.ly/2nEH3Z5",Olympic Channel 9
-https://ott-live.olympicchannel.com/out/u/OC9_1.m3u8
-#EXTINF:-1 group-title="Sport"tvg-logo="http://bit.ly/2nEH3Z5",Olympic Channel 10
-https://ott-live.olympicchannel.com/out/u/OC10_1.m3u8
-#EXTINF:-1 group-title="Sport"tvg-logo="http://bit.ly/2nEH3Z5",Olympic Channel 11
-https://ott-live.olympicchannel.com/out/u/OC11_1.m3u8
-#EXTINF:-1 group-title="Sport"tvg-logo="http://bit.ly/2nEH3Z5",Olympic Channel 12
-https://ott-live.olympicchannel.com/out/u/OC12_1.m3u8
+
+-------------"Documentary"---------------------
+ 
+ 
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/sd-animalplanet.jpg",Animal Planet TH
+https://tv4.chang55.com/live2/tv4ch89.stream/chunks.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/hd-mysci.jpg",MYSCIHD
+https://livedoomovies.com/02_MYSCIHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/hd-samrujlok.jpg",Samruajlok
+https://live.we-play.tv/app/samruajlok/playlist.m3u8
+ 
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/sd-discovery.jpg",Discovery Channel TH
+https://tv4.chang55.com/live2/tv4ch36.stream/chunks.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/hd-discovery.jpg",DiscoveryAsia TH
+https://tv4.chang55.com/live2/tv4ch80.stream/chunks.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/hd-history.jpg",History TH
+https://tv4.chang55.com/live2/tv4ch21.stream/chunks.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/hd-history2.jpg",H2 TH
+https://tv4.chang55.com/live2/tv4ch19.stream/chunks.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeo.jpg",Nat Geo Graphic TH
+http://cdn856.stm.trueid.net/live2/116_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeowild.jpg",Nat Geo Wild TH
+http://iliketot.dyndns.tv/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",Nat Geo People TH
+http://iliketot.dyndns.tv/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
+ 
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/sd-explife.jpg",Explore Life
+http://cdn856.stm.trueid.net/live4/060_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/sd-expsci.jpg",Explore Sci
+http://cdn856.stm.trueid.net/live4/061_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/sd-expwild.jpg",Explore Wild
+http://cdn856.stm.trueid.net/live3/058_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/hd-bbcearth.jpg",BBC Earth
+http://160.119.77.50/iptv/sd-bbcearth.stream/playlist.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://images.ufoiptv.com/channels/hd-bbclifestyle.jpg",BBC Lifestyle
+http://160.119.77.50/iptv/sd-bbclifestyle.stream/playlist.m3u8
 
 
 # การ์ตูน
@@ -263,6 +230,38 @@ http://iliketot.dyndns.tv/2b72986be9314c139db95f6098d1c413.m3u8?wmsAuthSign=c2Vy
 
 
 
+
+---------------"Radio"----------
+ 
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.adintrend.tv/images/radio/94x.jpg",Chill FM
+http://real4.atimemedia.com/chill
+#EXTINF:-1group-title="Radio" tvg-logo="http://image.free.in.th/v/2013/ij/180713075126.gif",GREENWAVE
+http://203.146.102.153:1935/live/rtmp:greenlive.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.adintrend.tv/images/radio/96x.jpg",96Sport radio
+http://110.164.48.215:8000/smmradio
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.adintrend.tv/images/radio/93x.jpg",Cool 93FM
+http://111.223.51.7:8100/;stream/1    
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.adintrend.tv/images/radio/105.5x.jpg",Eazy fm
+https://wzedge1.becteroradio.com/Eazy/Eazy-Listen-High/chunklist_w1159801034.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.adintrend.tv/images/radio/95x.jpg",Fm 95 looktung        
+https://mcotdigital-1wevsb.cdn.byteark.com/radiocdn_edge/fm95.stream_aac/chunklist_w2109631206.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.adintrend.tv/images/radio/95.5x.jpg",Virgin Hitz
+https://wzedge1.becteroradio.com/Hitz/Hitz-Listen-High/chunklist_w1373688195.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.adintrend.tv/images/radio/99x.jpg",fm99 Active Radio
+https://mcotdigital-gvwieh.cdn.byteark.com/radiocdn_edge/fm99.stream_aac/chunklist_w1668071839.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.adintrend.tv/images/radio/96.5x.jpg",96.5 ���蹤���Դ
+https://mcotdigital-9ksau4.cdn.byteark.com/RadioLive/smil:fm965_live.smil/chunklist_w673711091_b500000.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.adintrend.tv/images/radio/97.5x.jpg",97.5 FM Seed FM
+https://mcotdigital-3bgyw0.cdn.byteark.com/radiocdn_edge/fm975.stream_aac/chunklist_w1644975532.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.adintrend.tv/images/radio/100x.jpg",��.100 (js100)
+http://112.121.151.133:8184/;&type=mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/met.png",met107
+https://mcotdigital-w9rpgl.cdn.byteark.com/radiocdn_edge/fm107.stream_aac/chunklist_w136409516.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/mitikao905.png",�ԵԢ��� 90.5
+http://live3.smartbomb.co.th:8624/stream/1/
+
+
+----------ช่อง X--------
 
 #EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Live Cams
 http://cdn.adultiptv.net/livecams.m3u8
