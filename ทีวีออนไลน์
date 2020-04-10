@@ -3,80 +3,78 @@
 
 
 #EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",3 HD
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/3hd.smil/playlist.m3u8
-
+http://160.119.77.50/iptv/hd-ch3.stream/playlist.m3u8
  
 #EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/ch5.png",5 HD
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/5hd.smil/playlist.m3u8
+http://160.119.77.50/iptv/hd-ch5.stream/playlist.m3u8
 
  
 #EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/ch7.png",7 HD
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/7hd.smil/playlist.m3u8
+http://160.119.77.50/iptv/hd-ch7.stream/playlist.m3u8
 
  
 #EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT HD
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/mcothd.smil/playlist.m3u8
+http://160.119.77.50/iptv/hd-mcot.stream/playlist.m3u8
 
  
 #EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/nbt.png",NBT
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/nbt.smil/playlist.m3u8
+http://160.119.77.50/iptv/sd-nbt.stream/playlist.m3u8
 
  
 #EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/thairath.png",THAIRATH HD
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv32_thairahttvhd/playlist.m3u8
+http://160.119.77.50/iptv/hd-thairath.stream/playlist.m3u8
 
  
 #EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/amarin.png",AMARIN HD
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/amarinhd.smil/playlist.m3u8
+http://160.119.77.50/iptv/hd-amarin.stream/playlist.m3u8
 
  
 #EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/onehd.png",ONE HD
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/onehd.smil/playlist.m3u8
+http://160.119.77.50/iptv/hd-gmmone.stream/playlist.m3u8
 
  
 #EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/pptv.png",PPTV HD
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/pptvhd.smil/playlist.m3u8
+http://160.119.77.50/iptv/hd-pptv.stream/playlist.m3u8
 
  
 #EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/thaipbs.png",THAIPBS
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/thaipbs.smil/playlist.m3u8
+http://160.119.77.50/iptv/hd-tpbs.stream/playlist.m3u8
 
  
 #EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/workpoint.png",WORKPOINT
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/workpointtv.smil/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/mono29.png",MONO29
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/mono29.smil/playlist.m3u8
+https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
 
  
 #EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/true4u.png",TRUE4U
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/true4u.smil/playlist.m3u8
+
 
  
 #EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/gmm.png",GMM25
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/gmmchannel.smil/playlist.m3u8
 
  
  
 #EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/ch8.png",CH8
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/ch8.smil/playlist.m3u8
+
 
  
 #EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/tnn24.png",TNN24
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/tnn24.smil/playlist.m3u8
 
- 
+
+
 #EXTINF:-1 group-title="Free TV"tvg-logo="https://teevee-hd.com/img/nation.png",NATION CHANNEL
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/nation.smil/playlist.m3u8
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv22_nationtv/playlist.m3u8
 
  
-#EXTINF:-1 group-title="Free TV"tvg-logo="https://imgcloud.fwiptv.cc/postor/20181211134819NEW-TV.jpg",NEW TV
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/newstv.smil/playlist.m3u8
+#EXTINF:-1,Mono Plus FHD
+https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS1080p.stream/chunklist_w678136079.m3u8
+
 
  
-#EXTINF:-1 group-title="Free TV"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/TPTV.png",TPTV
-https://live.youlive-cdn.com/02_TPTV_480p/chunklist.m3u8
+
 
 
 
@@ -174,169 +172,6 @@ https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
 http://210.210.155.35/uq2663/h/h05/01.m3u8
 
 
--------------"Documentary"---------------------
- 
- 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/sd-animalplanet.jpg",Animal Planet TH
-https://tv4.chang55.com/live2/tv4ch89.stream/chunks.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/hd-mysci.jpg",MYSCIHD
-https://livedoomovies.com/02_MYSCIHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/hd-samrujlok.jpg",Samruajlok
-https://live.we-play.tv/app/samruajlok/playlist.m3u8
- 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/sd-discovery.jpg",Discovery Channel TH
-https://tv4.chang55.com/live2/tv4ch36.stream/chunks.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/hd-discovery.jpg",DiscoveryAsia TH
-https://tv4.chang55.com/live2/tv4ch80.stream/chunks.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/hd-history.jpg",History TH
-https://tv4.chang55.com/live2/tv4ch21.stream/chunks.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/hd-history2.jpg",H2 TH
-https://tv4.chang55.com/live2/tv4ch19.stream/chunks.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeo.jpg",Nat Geo Graphic TH
-http://cdn856.stm.trueid.net/live2/116_th_m_high_tidapp.smil/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeowild.jpg",Nat Geo Wild TH
-http://iliketot.dyndns.tv/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",Nat Geo People TH
-http://iliketot.dyndns.tv/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
- 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/sd-explife.jpg",Explore Life
-http://cdn856.stm.trueid.net/live4/060_th_m_high_tidapp.smil/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/sd-expsci.jpg",Explore Sci
-http://cdn856.stm.trueid.net/live4/061_th_m_high_tidapp.smil/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/sd-expwild.jpg",Explore Wild
-http://cdn856.stm.trueid.net/live3/058_th_m_high_tidapp.smil/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/hd-bbcearth.jpg",BBC Earth
-http://160.119.77.50/iptv/sd-bbcearth.stream/playlist.m3u8
-#EXTINF:-1 group-title="Documentary"tvg-logo="https://images.ufoiptv.com/channels/hd-bbclifestyle.jpg",BBC Lifestyle
-http://160.119.77.50/iptv/sd-bbclifestyle.stream/playlist.m3u8
-
-
-# การ์ตูน
- 
- 
-#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-boomerang.png" group-title=" การ์ตูน",Boomerang
-http://27.254.130.64/live01///////////ch18.m3u8?p=?
- 
-#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-cartoonclub.png" group-title=" การ์ตูน",Cartoon Club
-http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/playlist.m3u8
- 
-#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://www.doohdbox.com/assets/201707071722101651784091.jpg" group-title=" การ์ตูน",GANG CRRTOON
-https://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_500.m3u8
-
-
-#EXTINF:-1,Nick Jr. (Thai)
-http://iliketot.dyndns.tv/2b72986be9314c139db95f6098d1c413.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
-
-
-
-
-
----------------"Radio"----------
- 
-#EXTINF:-1 group-title="Radio" tvg-logo="https://www.adintrend.tv/images/radio/94x.jpg",Chill FM
-http://real4.atimemedia.com/chill
-#EXTINF:-1group-title="Radio" tvg-logo="http://image.free.in.th/v/2013/ij/180713075126.gif",GREENWAVE
-http://203.146.102.153:1935/live/rtmp:greenlive.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="https://www.adintrend.tv/images/radio/96x.jpg",96Sport radio
-http://110.164.48.215:8000/smmradio
-#EXTINF:-1 group-title="Radio" tvg-logo="https://www.adintrend.tv/images/radio/93x.jpg",Cool 93FM
-http://111.223.51.7:8100/;stream/1    
-#EXTINF:-1 group-title="Radio" tvg-logo="https://www.adintrend.tv/images/radio/105.5x.jpg",Eazy fm
-https://wzedge1.becteroradio.com/Eazy/Eazy-Listen-High/chunklist_w1159801034.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="https://www.adintrend.tv/images/radio/95x.jpg",Fm 95 looktung        
-https://mcotdigital-1wevsb.cdn.byteark.com/radiocdn_edge/fm95.stream_aac/chunklist_w2109631206.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="https://www.adintrend.tv/images/radio/95.5x.jpg",Virgin Hitz
-https://wzedge1.becteroradio.com/Hitz/Hitz-Listen-High/chunklist_w1373688195.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="https://www.adintrend.tv/images/radio/99x.jpg",fm99 Active Radio
-https://mcotdigital-gvwieh.cdn.byteark.com/radiocdn_edge/fm99.stream_aac/chunklist_w1668071839.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="https://www.adintrend.tv/images/radio/96.5x.jpg",96.5 ���蹤���Դ
-https://mcotdigital-9ksau4.cdn.byteark.com/RadioLive/smil:fm965_live.smil/chunklist_w673711091_b500000.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="https://www.adintrend.tv/images/radio/97.5x.jpg",97.5 FM Seed FM
-https://mcotdigital-3bgyw0.cdn.byteark.com/radiocdn_edge/fm975.stream_aac/chunklist_w1644975532.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="https://www.adintrend.tv/images/radio/100x.jpg",��.100 (js100)
-http://112.121.151.133:8184/;&type=mp3
-#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/met.png",met107
-https://mcotdigital-w9rpgl.cdn.byteark.com/radiocdn_edge/fm107.stream_aac/chunklist_w136409516.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/mitikao905.png",�ԵԢ��� 90.5
-http://live3.smartbomb.co.th:8624/stream/1/
-
-
-----------ช่อง X--------
-
-#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Live Cams
-http://cdn.adultiptv.net/livecams.m3u8
-#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Anal
-http://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Big Ass
-http://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Big Dick
-http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Big Tits
-http://cdn.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Blonde
-http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Blowjob
-http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Brunette
-http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Compilation
-http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Cuckold
-http://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Fetish
-http://cdn.adultiptv.net/fetish.m3u8
-#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Gangbang
-http://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Gay
-http://cdn.adultiptv.net/gay.m3u8
-#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Hardcore
-http://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Interracial
-http://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Latina
-http://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Lesbian
-http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",MILF
-http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Pornstar
-http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",POV
-http://cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Rough
-http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Russian
-http://cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Teen
-http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Threesome
-http://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AST TV 1
-https://www.ast.tv/stream/1/ultra.m3u8
-#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AST TV 2
-https://www.ast.tv/stream/2/ultra.m3u8
-#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Babestation24
-https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Korean Adult TV
-http://122.38.74.172:9981/stream/channelid/1463854277
-#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Miami TV
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
-#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Miami TV Live
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
-#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Miami TV
-https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
-#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Midnight TV
-http://112.148.183.161:9981/stream/channelid/96001658
-#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Viki
-http://112.148.183.161:9981/stream/channelid/488704961
-#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Visit-X TV
-http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",NYX Media 1
-https://cdn1.ibizastream.biz:441/free/1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",NYX Media 2
-https://cdn1.ibizastream.biz:441/free/2/playlist.m3u8
 
 
 
