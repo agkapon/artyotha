@@ -69,7 +69,7 @@ https://free.fwstream.com:1215/freelive-edge/_definst_/tnn24.smil/chunklist_w181
 http://206.189.150.220:8081/freelive-edge/_definst_/dtv22_nationtv/playlist.m3u8
 
  
-#EXTINF:-1,Mono Plus FHD
+#EXTINF:-1 group-title="Free TV"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/MONO_Plus.png",Mono Plus
 https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS1080p.stream/chunklist_w678136079.m3u8
 
 
@@ -154,25 +154,25 @@ http://103.208.24.234:1935/thaisport/hd-tsport3.stream/media.m3u8?
 http://103.208.24.234:1935/thaisport/hd-tsport4.stream/media.m3u8?
 
 
-#EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/hd-foxsports1-1.png" group-title="Sport",Foxsports 1
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxsports1.png" group-title="Sport",Foxsports 1
 http://103.208.24.234:1935/thaisport/hd-foxsports1.stream/media.m3u8?
  
-#EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/sd-foxsports2.png" group-title="Sport",Foxsports 2
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports2.png" group-title="Sport",Foxsports 2
 http://103.208.24.234:1935/thaisport/sd-foxsports2.stream/media.m3u8?
  
-#EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/06/sd-foxsports3.png" group-title="Sport",Foxsports 3
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports3.png" group-title="Sport",Foxsports 3
 http://103.208.24.234:1935/thaisport/sd-foxsports3.stream/media.m3u8?
 
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/tennis.png" group-title="Sport",Tennis
 http://103.208.24.234:1935/thaisport/hd-tennis.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="Sport", NBA HD
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-nba.png" group-title="Sport",NBA HD
 http://103.208.24.234:1935/thaisport/hd-nba.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="Sport", Golf HD
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-golf.png" group-title="Sport",GolfHD
 https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
 
-#EXTINF:1 group-title="Sport", FIGHT SPORTS
+#EXTINF:-1 tvg-logo="https://dohdbox.net/assets/20190829143429373436939.jpg",, FIGHT SPORTS
 http://210.210.155.35/uq2663/h/h05/01.m3u8
 
 
