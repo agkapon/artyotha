@@ -95,12 +95,16 @@ http://27.254.149.109:8081/live/upmovie.stream/playlist.m3u8
 http://vip.login.in.th:1935/CTB/CTB/chunklist_w1645421209.m3u8
 #EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://images.ufoiptv.com/channels/hd-foxaction.jpg",Fox Action Movies (TH)
 http://160.119.77.50/iptv/hd-foxaction.stream/playlist.m3u8
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/fox-action-movies-th.png",Fox Action Movies (TH)
+https://www.livedoomovies.com/02_FoxActionHD_TH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://images.ufoiptv.com/channels/hd-foxpremium.jpg",Fox Movies Premium (TH)
 http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
 #EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://images.ufoiptv.com/channels/hd-foxcrime.jpg",Fox Crime TH
 http://iliketot.dyndns.tv/5028f7ff1d1b4d5f8189690233364737.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
 #EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://images.ufoiptv.com/channels/sd-fox.jpg",Fox Thai
 http://160.119.77.50/iptv/sd-fox.stream/playlist.m3u8
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://www.doofree88.com/storage/live/UnFCrgcOuyQ3JoXKMSzpaTscsKX3tWsydPiDV7Mu.png",Fox Family Movies
+https://www.livedoomovies.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
 
 
 
@@ -172,7 +176,11 @@ https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
 http://210.210.155.35/uq2663/h/h05/01.m3u8
 
 
+#EXTINF:-1 tvg-id="" group-title="สารคดี" tvg-logo="https://cms.dmpcdn.com/livetv/2018/01/18/c9963ddf-818d-4d8b-abe6-c87604ba2f1e.png",National Geographic
+https://www.livedoomovies.com/02_NatGeoHD_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="สารคดี" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-samrujlok.jpg",สำรวจโลก
+https://www.livedoomovies.com/sumrujlok_goodtv/chunklist.m3u8
 
 
 
-#https://pastebin.com/u/Sumarat
