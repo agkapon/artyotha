@@ -211,50 +211,50 @@ http://host4.dynns.com/wevelwe/90d14bbf53d14b018d4439ffba6be283.m3u8
 http://host4.dynns.com/wevelwe/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8
 
 
-#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.we-play.tv/videos/education/dltv1/",DLTV 1 ป.1
-https://live.we-play.tv/live/dltv1/chunks.m3u8?nimblesessionid=40806119&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDk6MDY6MjIgQU0maGFzaF92YWx1ZT0rYUR5UFBtaDZrL1FEVm92aVMzUDBRPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-01.png",DLTV 1 ป.1
+https://dltv-live-edge.catcdn.cloud/dltv01_720p/index.m3u8
 
-#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.we-play.tv/videos/education/dltv2/",DLTV 2 ป.2
-https://live.we-play.tv/live/dltv2/chunks.m3u8?nimblesessionid=40806729&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDk6MTM6MzQgQU0maGFzaF92YWx1ZT1vc0VGck5xdWVzUE1wYUNYVVJYZVB3PT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-02.png",DLTV 2 ป.2
+https://dltv-live-edge.catcdn.cloud/dltv02_720p/index.m3u8
 
-#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.we-play.tv/videos/education/dltv3/",DLTV ป.3
-https://live.we-play.tv/live/dltv3/chunks.m3u8?nimblesessionid=40806901&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDk6MTU6MTIgQU0maGFzaF92YWx1ZT10M0hudVQyRDNRNVBzVmp1QWk4ejJnPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-03.png",DLTV ป.3
+https://dltv-live-edge.catcdn.cloud/dltv03_720p/index.m3u8
 
-#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.we-play.tv/videos/education/dltv4/",DLTV ป.4
-https://live.we-play.tv/live/dltv4/chunks.m3u8?nimblesessionid=40806963&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDk6MTY6MzAgQU0maGFzaF92YWx1ZT1jOHpiNU1HSzA0RGhnLzgzYzhkNUJBPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-04.png",DLTV ป.4
+https://dltv-live-edge.catcdn.cloud/dltv04_720p/index.m3u8
 
-#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.we-play.tv/videos/education/dltv5/",DLTV ป.5
-https://live.we-play.tv/live/dltv5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDk6MTc6MTMgQU0maGFzaF92YWx1ZT1VUFlIUVkwcEc2bStxSkMxUmxTdUt3PT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-05.png",DLTV ป.5
+https://dltv-live-edge.catcdn.cloud/dltv05_720p/index.m3u8
 
-#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.we-play.tv/videos/education/dltv6/",DLTV ป.6
-https://dltv-live-edge.catcdn.cloud/dltv06_720p.m3u8
+#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-06.png",DLTV ป.6
+https://dltv-live-edge.catcdn.cloud/dltv06_720p/index.m3u8
 
-#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.we-play.tv/videos/education/dltv7/",DLTV 7 ม.1
-https://live.we-play.tv/live/dltv7/chunks.m3u8?nimblesessionid=40807169&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDk6MTg6MzMgQU0maGFzaF92YWx1ZT1VdmxPUlV2RmxmbGV4eEhKZE1GZDV3PT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-07.png",DLTV 7 ม.1
+https://dltv-live-edge.catcdn.cloud/dltv07_720p/index.m3u8
 
-#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.we-play.tv/videos/education/dltv8/",DLTV ม.2
-https://live.we-play.tv/live/dltv8/chunks.m3u8?nimblesessionid=40807238&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDk6MTk6MjAgQU0maGFzaF92YWx1ZT1zMGFLazVlbVd1UnNRRFNucEY4cFN3PT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-08.png",DLTV ม.2
+https://dltv-live-edge.catcdn.cloud/dltv08_720p/index.m3u8
 
-#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.we-play.tv/videos/education/dltv9/",DLTV ม.3
-https://live.we-play.tv/live/dltv9/chunks.m3u8?nimblesessionid=40807318&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDk6MjA6MTIgQU0maGFzaF92YWx1ZT1SdjhFUTdRbTVSR3FaKzk4VEJWNkNRPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-09.png",DLTV ม.3
+https://dltv-live-edge.catcdn.cloud/dltv09_720p/index.m3u8
 
-#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.we-play.tv/videos/education/dltv10/",DLTV 10 อนุบาล1
-https://live.we-play.tv/live/dltv10/chunks.m3u8?nimblesessionid=40806376&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDk6MDk6NTUgQU0maGFzaF92YWx1ZT1MT2EvVUZ2eE9CVHZaSjRnc29pZ2dRPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-10.png",DLTV 10 อนุบาล1
+https://dltv-live-edge.catcdn.cloud/dltv10_720p/index.m3u8
 
-#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.we-play.tv/videos/education/dltv11/",DLTV 11 อนุบาล2
-https://live.we-play.tv/live/dltv11/chunks.m3u8?nimblesessionid=40807382&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDk6MjA6NTcgQU0maGFzaF92YWx1ZT16S0o2RmlHUnl4Y3dzRXd5M3NoaklRPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-11.png",DLTV 11 อนุบาล2
+https://dltv-live-edge.catcdn.cloud/dltv11_720p/index.m3u8
 
-#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.we-play.tv/videos/education/dltv12/",DLTV 12 อนุบาล3
-https://live.we-play.tv/live/dltv12/chunks.m3u8?nimblesessionid=40807443&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDk6MjE6MzcgQU0maGFzaF92YWx1ZT1HVDA4bnhXQ0lIaUpBWlhEKzRoU3F3PT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-12.png",DLTV 12 อนุบาล3
+https://dltv-live-edge.catcdn.cloud/dltv12_720p/index.m3u8
 
-#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.we-play.tv/videos/education/dltv13/",DLTV 13 อาชีวะ
-https://live.we-play.tv/live/dltv13/chunks.m3u8?nimblesessionid=40807494&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDk6MjI6MTQgQU0maGFzaF92YWx1ZT1Ub2djeFl1ZjNDUDZwd2VUVCs0a2NRPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-13.png",DLTV 13 อาชีวะ
+https://dltv-live-edge.catcdn.cloud/dltv13_720p/index.m3u8
 
-#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.we-play.tv/videos/education/dltv14/",DLTV 14 อุดมศึกษา
-https://live.we-play.tv/live/dltv14/chunks.m3u8?nimblesessionid=40807518&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDk6MjI6NDAgQU0maGFzaF92YWx1ZT1QcndZR1liZm85U2NRN21HWDB5b1JnPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-14.png",DLTV 14 อุดมศึกษา
+https://dltv-live-edge.catcdn.cloud/dltv14_720p/index.m3u8
 
-#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.we-play.tv/videos/education/dltv15/",DLTV 15 ครู
-https://live.we-play.tv/live/dltv15/chunks.m3u8?nimblesessionid=40807586&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDk6MjM6MjUgQU0maGFzaF92YWx1ZT1sdDNMNkU2cDlRREUrMjluU2JENjZnPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-15.png",DLTV 15 ครู
+https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 
 
 
