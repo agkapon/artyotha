@@ -211,3 +211,50 @@ http://host4.dynns.com/wevelwe/90d14bbf53d14b018d4439ffba6be283.m3u8
 http://host4.dynns.com/wevelwe/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8
 
 
+#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.we-play.tv/videos/education/dltv1/",DLTV 1 ป.1
+https://dltv-live-edge.catcdn.cloud/dltv01_720p.m3u8
+
+#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.we-play.tv/videos/education/dltv2/",DLTV 2 ป.2
+https://dltv-live-edge.catcdn.cloud/dltv02_720p.m3u8
+
+#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.we-play.tv/videos/education/dltv3/",DLTV ป.3
+https://dltv-live-edge.catcdn.cloud/dltv03_720p.m3u8
+
+#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.we-play.tv/videos/education/dltv4/",DLTV ป.4
+https://dltv-live-edge.catcdn.cloud/dltv04_720p.m3u8
+
+#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.we-play.tv/videos/education/dltv5/",DLTV ป.5
+https://dltv-live-edge.catcdn.cloud/dltv05_720p.m3u8
+
+#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.we-play.tv/videos/education/dltv6/",DLTV ป.6
+https://dltv-live-edge.catcdn.cloud/dltv06_720p.m3u8
+
+#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.we-play.tv/videos/education/dltv7/",DLTV 7 ม.1
+https://dltv-live-edge.catcdn.cloud/dltv07_720p.m3u8
+
+#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.we-play.tv/videos/education/dltv8/",DLTV ม.2
+https://dltv-live-edge.catcdn.cloud/dltv08_720p.m3u8
+
+#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.we-play.tv/videos/education/dltv9/",DLTV ม.3
+https://dltv-live-edge.catcdn.cloud/dltv09_720p.m3u8
+
+#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.we-play.tv/videos/education/dltv10/",DLTV 10 อนุบาล1
+https://dltv-live-edge.catcdn.cloud/dltv10_720p.m3u8
+
+#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.we-play.tv/videos/education/dltv11/",DLTV 11 อนุบาล2
+https://dltv-live-edge.catcdn.cloud/dltv11_720p.m3u8
+
+#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.we-play.tv/videos/education/dltv12/",DLTV 12 อนุบาล3
+https://dltv-live-edge.catcdn.cloud/dltv13_720p.m3u8
+
+#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.we-play.tv/videos/education/dltv13/",DLTV 13 อาชีวะ
+https://dltv-live-edge.catcdn.cloud/dltv13_720p.m3u8
+
+#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.we-play.tv/videos/education/dltv14/",DLTV 14 อุดมศึกษา
+https://dltv-live-edge.catcdn.cloud/dltv14_720p.m3u8
+
+#EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.we-play.tv/videos/education/dltv15/",DLTV 15 ครู
+https://dltv-live-edge.catcdn.cloud/dltv15_720p.m3u8
+
+
+
