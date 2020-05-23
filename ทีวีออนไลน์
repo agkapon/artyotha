@@ -212,7 +212,7 @@ http://host4.dynns.com/wevelwe/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8
 
 
 #EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.we-play.tv/videos/education/dltv1/",DLTV 1 ป.1
-https://dltv-live-edge.catcdn.cloud/dltv01_720p.m3u8
+https://live.we-play.tv/live/dltv1/chunks.m3u8?nimblesessionid=40806119&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDk6MDY6MjIgQU0maGFzaF92YWx1ZT0rYUR5UFBtaDZrL1FEVm92aVMzUDBRPT0mdmFsaWRtaW51dGVzPTIw
 
 #EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.we-play.tv/videos/education/dltv2/",DLTV 2 ป.2
 https://dltv-live-edge.catcdn.cloud/dltv02_720p.m3u8
