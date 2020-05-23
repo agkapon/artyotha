@@ -194,5 +194,16 @@ https://www.livedoomovies.com/sumrujlok_goodtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="สารคดี" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-mysci.jpg",Mysci
 https://www.livedoomovies.com/02_MYSCIHD_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="สารคดี",National Geographic HD (TH)
+http://host4.dynns.com/wevelwe/29fb241f985c468e8e6ffa8942b00a69.m3u8
+#EXTINF:-1 tvg-id="" group-title="สารคดี",National Geographic HD (EN)
+http://host4.dynns.com/wevelwe/850a8ca433184938bfaeaf770abc5d7a.m3u8
+#EXTINF:-1 tvg-id="" group-title="สารคดี",Nat Geo Wild HD (TH)
+http://host4.dynns.com/wevelwe/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8
+#EXTINF:-1 tvg-id="" group-title="สารคดี",Nat Geo Wild HD (EN)
+http://host4.dynns.com/wevelwe/90d14bbf53d14b018d4439ffba6be283.m3u8
+#EXTINF:-1 tvg-id="" group-title="สารคดี",Nat Geo People HD (TH)
+http://host4.dynns.com/wevelwe/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8
+
 
 
