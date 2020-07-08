@@ -97,7 +97,7 @@ http://27.254.149.109:8081/live/movie2.stream/playlist.m3u8
 #EXTINF:-1 group-title="ภาพยนต์"tvg-logo="https://www.doohdbox.com/assets/20170708213208929757171.jpg",Movies 3
 http://27.254.149.109:8081/live/movie3.stream/playlist.m3u8
 #EXTINF:-1 group-title="ภาพยนต์"tvg-logo="http://image.free.in.th/v/2013/iy/180723045313.jpg",UP Movies
-http://27.254.149.109:8081/live/upmovie.stream/playlist.m3u8
+http://27.254.149.109:8081/tumlive/upmovie.stream/playlist.m3u8
 #EXTINF:-1 group-title="ภาพยนต์"tvg-logo="https://www.doohdbox.com/assets/20170709090502720443899.jpg",CTB
 http://vip.login.in.th:1935/CTB/CTB/chunklist_w1645421209.m3u8
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180426/oxq/kisspng-universal-pictures-universal-s-islands-of-adventur-5ae180a34caf06.1718797915247279713141.jpg",UNIVERSAL TH
