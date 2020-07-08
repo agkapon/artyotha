@@ -85,11 +85,11 @@ https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS1080p.stream/c
 
 
 #EXTINF:-1 group-title="ภาพยนต์"tvg-logo="https://teevee-hd.com/img/Movie2.png",MOVIE HD 1
-https://tv4.chang55.com:446/live2/tv4ch90.stream/chunks.m3u8
+https://tv4.chang55.com:446/live2/tv4ch82.stream/chunks.m3u8
 #EXTINF:-1 group-title="ภาพยนต์"tvg-logo="https://teevee-hd.com/img/Movie2.png",MOVIE HD 2
-https://tv4.chang55.com:446/live2/tv4ch87.stream/chunks.m3u8
+https://tv4.chang55.com:446/live2/tv4ch43.stream/playlist.m3u8
 #EXTINF:-1 group-title="ภาพยนต์"tvg-logo="https://teevee-hd.com/img/MovieHD3.png",MOVIE HD 3
-https://tv4.chang55.com:446/live2/tv4ch43.stream/chunks.m3u8
+https://tv4.chang55.com:446/live2/tv4ch94.stream/chunks.m3u8
 #EXTINF:-1 group-title="ภาพยนต์"tvg-logo="https://www.doohdbox.com/assets/20170708213058567372301.jpg",Movies 1
 http://27.254.149.109:8081/live/movie1.stream/playlist.m3u8
 #EXTINF:-1 group-title="ภาพยนต์"tvg-logo="https://www.doohdbox.com/assets/201707082131441239733741.jpg",Movies 2
@@ -100,6 +100,16 @@ http://27.254.149.109:8081/live/movie3.stream/playlist.m3u8
 http://27.254.149.109:8081/tumlive/upmovie.stream/playlist.m3u8
 #EXTINF:-1 group-title="ภาพยนต์"tvg-logo="https://www.doohdbox.com/assets/20170709090502720443899.jpg",CTB
 http://vip.login.in.th:1935/CTB/CTB/chunklist_w1645421209.m3u8
+
+#EXTINF:-1 group-title="ภาพยนต์"tvg-logo="http://image.free.in.th/v/2013/iu/200604091620.jpg",Live sky1
+http://27.254.149.109:8081/tumlive/ipmskyworldhd1.stream/playlist.m3u8
+#EXTINF:-1 group-title="ภาพยนต์"tvg-logo="http://image.free.in.th/v/2013/ih/200604091743.jpg",Live sky2
+http://27.254.149.109:8081/tumlive/ipmskyworldhd2.stream/playlist.m3u8
+#EXTINF:-1 group-title="ภาพยนต์"tvg-logo="http://image.free.in.th/v/2013/ie/200604091806.jpg",Live sky3
+http://27.254.149.109:8081/tumlive/ipmskyworldhd3.stream/playlist.m3u8
+#EXTINF:-1 group-title="ภาพยนต์"tvg-logo="http://image.free.in.th/v/2013/id/200604091828.jpg",Live sky4
+http://27.254.149.109:8081/tumlive/ipmskyworldhd4.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180426/oxq/kisspng-universal-pictures-universal-s-islands-of-adventur-5ae180a34caf06.1718797915247279713141.jpg",UNIVERSAL TH
 https://tv4.chang55.com:446/live2/tv4ch43.stream/chunks.m3u8
 #EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://images.ufoiptv.com/channels/hd-foxaction.jpg",Fox Action Movies (TH)
@@ -108,6 +118,8 @@ http://160.119.77.50/iptv/hd-foxaction.stream/playlist.m3u8
 https://www.livedoomovies.com/02_FoxActionHD_TH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://images.ufoiptv.com/channels/hd-foxpremium.jpg",Fox Movies Premium (TH)
 http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
+#EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://images.ufoiptv.com/channels/hd-foxpremium.jpg",Fox Movies Premium (TH)
+https://livedoomovies.com/02_FoxMoviesTH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://images.ufoiptv.com/channels/hd-foxcrime.jpg",Fox Crime TH
 http://iliketot.dyndns.tv/5028f7ff1d1b4d5f8189690233364737.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
 #EXTINF:-1 group-title="ภาพยนต์" tvg-logo="https://images.ufoiptv.com/channels/sd-fox.jpg",Fox Thai
