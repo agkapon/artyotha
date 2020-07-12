@@ -167,6 +167,15 @@ http://103.208.24.234:1935/thaisport/epl-5.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/epl-5.png",Premiere HD5
 http://160.119.77.50/iptv/epl-5.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png",beIN SPORTS1 HD(720P)
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.ytimg.com/vi/tAsaTRyOEKc/hqdefault.jpg" ,beIN SPORTS1
+https://tv4.chang55.com:446/live2/tv4ch36.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein2.png ",beIN SPORTS2 HD(720P)
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://media.info/i/lf/300/1491352241/6594.png" ,beIN SPORTS2
+https://tv4.chang55.com:446/live2/tv4ch73.stream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-tsport1.png" group-title="Sport",True Sport 1 HD
