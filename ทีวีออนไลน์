@@ -226,17 +226,52 @@ https://www.livedoomovies.com/02_MYSCIHD_720p/chunklist.m3u8
 http://160.119.77.50/iptv/sd-bbcearth.stream/playlist.m3u8
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://images.ufoiptv.com/channels/hd-bbclifestyle.jpg",BBC Lifestyle
 http://160.119.77.50/iptv/sd-bbclifestyle.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="สารคดี",National Geographic HD (TH)
-http://host4.dynns.com/wevelwe/29fb241f985c468e8e6ffa8942b00a69.m3u8
-#EXTINF:-1 tvg-id="" group-title="สารคดี",National Geographic HD (EN)
-http://host4.dynns.com/wevelwe/850a8ca433184938bfaeaf770abc5d7a.m3u8
-#EXTINF:-1 tvg-id="" group-title="สารคดี",Nat Geo Wild HD (TH)
-http://host4.dynns.com/wevelwe/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8
-#EXTINF:-1 tvg-id="" group-title="สารคดี",Nat Geo Wild HD (EN)
-http://host4.dynns.com/wevelwe/90d14bbf53d14b018d4439ffba6be283.m3u8
-#EXTINF:-1 tvg-id="" group-title="สารคดี",Nat Geo People HD (TH)
-http://host4.dynns.com/wevelwe/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://awards.brandingforum.org/wp-content/uploads/2017/11/Animal-Planet-logo.jpg",aninal planet
+https://tv4.chang55.com:446/live2/tv4ch37.stream/chunks.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://awards.brandingforum.org/wp-content/uploads/2017/11/Animal-Planet-logo.jpg",aninal planet(TH)
+https://tv4.chang55.com:446/live2/tv4ch81.stream/chunks.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.doofree88.com/storage/live/9yb9Ng4uhP1goO0FVrIO9ETyOAkKrV3lzBcbPy6R.png",BBC Lifestyle
+http://160.119.77.50/iptv/sd-bbclifestyle.stream/playlist.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="http://cms.dmpcdn.com/livetv/2018/12/17/76f8506f-b775-4a6f-ba79-752ecb8ee516.png",TRUE SCI(TH)
+http://160.119.77.50/iptv/sd-expsci.stream/playlist.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="http://cms.dmpcdn.com/livetv/2018/12/17/9cf5341f-b7c1-475e-8644-1ccb91f0ae2a.png",TRUE LIFE(TH)
+http://160.119.77.50/iptv/sd-explife.stream/playlist.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="http://cms.dmpcdn.com/livetv/2018/12/17/4c6e4330-9408-4280-8b5d-7d3b37305ce0.png",TRUE WILD(TH)
+http://160.119.77.50/iptv/sd-expwild.stream/playlist.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/discovery-asia.jpg",Discovery Asia
+http://160.119.77.50:80/iptv/hd-discovery.stream/chunks.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.doofree88.com/storage/live/a4cjOG3p1eM1LpvGh9iqSTTiW1hiU7YPE5L7NOKm.png",True Explore Life TH 
+http://160.119.77.50/iptv/sd-explife.stream/playlist.m3u8 
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.doofree88.com/storage/live/pT4AzU8x11M9O0MLiudWfFR6jGxw7BHZMMegne2I.png",True Explore Sci TH 
+http://160.119.77.50/iptv/sd-expsci.stream/playlist.m3u8 
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.doofree88.com/storage/live/qLx97KHqvU26z2uTp3CqhuYvr9ZtqMRQvnzg55hv.png",True Explore Wild TH 
+http://160.119.77.50/iptv/sd-expwild.stream/playlist.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://teevee-hd.com/img/natgeo.png",National Geographic HD(THSub) 
+http://160.119.77.50/iptv/hd-natgeo.stream/playlist.m3u8 
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://teevee-hd.com/img/natwild.png",NAT GEO WILD(EN) 
+http://160.119.77.50/iptv/hd-natgeowildeng.stream/playlist.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://teevee-hd.com/img/natwild.png",NAT GEO WILD(TH) 
+https://livedoomovies.com/02_NatGeoWild_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://teevee-hd.com/img/natwild.png",Nat Wild ENdescription
+http://160.119.77.50/iptv/hd-natgeowildeng.stream/playlist.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://blog.disneygeek.com/wp-content/uploads/2019/07/nat_white.jpg",NAT Geo TH
+http://160.119.77.50/iptv/hd-natgeo.stream/playlist.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="http://cms.dmpcdn.com/livetv/2017/10/17/f6168174-fabb-410c-a589-e5c30ff485f3.png",History TH
+https://tv4.chang55.com:446/live2/tv4ch21.stream/chunks.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="http://cms.dmpcdn.com/livetv/2017/10/18/64a7b379-e7f9-4a12-b978-08fd58bd8f09.png",H2 HISTORY
+https://tv4.chang55.com:446/live2/tv4ch19.stream/chunks.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="http://cms.dmpcdn.com/livetv/2017/10/18/64a7b379-e7f9-4a12-b978-08fd58bd8f09.png",H2 HISTORY(TH)
+http://160.119.77.50/iptv/hd-history2.stream/playlist.m3u8
+#EXTINF:0 group-title="สารคดี" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/food-network.jpg",Food Network EN(THSub)
+http://160.119.77.50/iptv/sd-asianfood.stream/playlist.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="http://cms.dmpcdn.com/livetv/2018/12/17/1d7dc8be-49df-46c7-ac16-4847229c6ab9.png",True Pookpanya 
+http://160.119.77.50/iptv/sd-tppy.stream/playlist.m3u8 
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-rama.png",Rama Channel 
+http://160.119.77.50/iptv/sd-rama.stream/playlist.m3u8 
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-dmax.png",Dmax TH 
+http://51.91.51.39:4770/dmax/tracks-v1a1/mono.m3u8 
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/04/truexzyte.jpg",true X-ZYTE HD
+http://160.119.77.50/iptv/hd-xzyte.stream/playlist.m3u8
 
 
 #EXTINF:-1 group-title="เรียนออนไลน์"tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-01.png",DLTV 1 ป.1
