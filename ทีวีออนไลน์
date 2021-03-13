@@ -39,7 +39,7 @@ https://cdn6.goprimetime.info/feed/chpptvhd/index.m3u8
 
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074623.jpg",GMM
-http://183.182.100.184/live/mcothd/playlist.m3u8
+https://cdn6.goprimetime.info//feed//chgmm//index.m3u8
 
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073317.jpg",Amarin
@@ -78,7 +78,7 @@ https://stream-04.sg1.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL547eTFNu_K9xhptkamI
 
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-073941.jpg",MCOT
-https://doofootball.livestream-cdn.com/iptv/hd-mcot.stream/playlist.m3u8
+http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074623.jpg",GMM
 http://live2.dootvde.com/live/50018_gmm.stream.smil/playist.m3u8
