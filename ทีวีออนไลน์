@@ -9,7 +9,7 @@ http://27.254.130.56:80/live01/ch6.m3u8
 
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073150.jpg",CH7
-http://160.119.77.117/iptv/hd-ch7.stream/chunks.m3u8
+https://cdn6.goprimetime.info/feed/ch7hd/index.m3u8
 
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-073941.jpg",MCOT
