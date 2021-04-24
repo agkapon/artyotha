@@ -13,7 +13,7 @@ https://cdn6.goprimetime.info/feed/ch7hd/index.m3u8
 
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-073941.jpg",MCOT
-http://160.119.77.117/iptv/hd-mcot.stream/chunks.m3u8
+https://cdn6.goprimetime.info/feed//chmcothd/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074028.jpg",NBT
@@ -22,9 +22,6 @@ http://live2.dootvde.com/live/50005_nbt.stream.smil/playist.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074157.jpg",Thai PBS(FHD)
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
-
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074238.jpg",Thairath
-http://160.119.77.117/iptv/hd-thairath.stream/chunks.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074238.jpg",Thairath
 https://cdn6.goprimetime.info/feed/chthairath/index.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-081440.jpg",Nation
@@ -32,8 +29,6 @@ http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074500.jpg",PPTV
 http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/playist.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074500.jpg",PPTV
-http://160.119.77.117/iptv/hd-pptv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074500.jpg",PPTV
 https://cdn6.goprimetime.info/feed/chpptvhd/index.m3u8
 
@@ -58,7 +53,7 @@ https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/ch
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_720P/mono29hls_720TH.stream/chunklist_w1559627251.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074707.jpg",true4U
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/true4u_480p/chunks.m3u8
+https://cdn6.goprimetime.info/feed/chtrue4u/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074753.jpg",Workpoint
@@ -66,14 +61,7 @@ http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8
 
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074848.jpg",CH8
-https://doofootball.livestream-cdn.com/iptv/hd-ch8.stream/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://www.mx7.com/i/00b/u122QH.jpg",TNN16
-https://doofootball.livestream-cdn.com/iptv/sd-tnn24.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-04-075913.jpg",NEW 18
-https://stream-04.sg1.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL547eTFNu_K9xhptkamIpP-U8)/dm/3/x7kx5i7/s/live-4.m3u8
+https://cdn6.goprimetime.info/feed/ch8/index.m3u8
 
 
 
