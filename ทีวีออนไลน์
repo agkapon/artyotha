@@ -123,13 +123,13 @@ http://196.53.248.18:8081/live/banner002/chunks.m3u8
 http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel2/chunklist_w303936619.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://data.apksum.com/71/top.movhd.com.myapplication/mov9.3/icon.png",Movies 4
 http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel/chunklist_w1127755900.m3u8
-#EXTINF:-1 group-title="Movie"tvg-logo="https://data.apksum.com/71/top.movhd.com.myapplication/mov9.3/icon.png",Cable 1
+#EXTINF:-1 group-title="Movie"tvg-logo="https://i1.sndcdn.com/artworks-000270301463-9byhni-t500x500.jpg",Cable Movie 1 
 http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel/chunklist_w1127755900.m3u8
-#EXTINF:-1 group-title="Movie"tvg-logo="https://data.apksum.com/71/top.movhd.com.myapplication/mov9.3/icon.png",Cable 2
+#EXTINF:-1 group-title="Movie"tvg-logo="https://i1.sndcdn.com/artworks-000270301463-9byhni-t500x500.jpg",Cable Movie 2
 http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel2/chunklist_w303936619.m3u8
-#EXTINF:-1 group-title="Movie"tvg-logo="https://data.apksum.com/71/top.movhd.com.myapplication/mov9.3/icon.png",Cable 3
+#EXTINF:-1 group-title="Movie"tvg-logo="https://i1.sndcdn.com/artworks-000270301463-9byhni-t500x500.jpg",Cable Series 1
 http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries1/chunklist_w1936282519.m3u8
-#EXTINF:-1 group-title="Movie"tvg-logo="https://data.apksum.com/71/top.movhd.com.myapplication/mov9.3/icon.png",Cable 4
+#EXTINF:-1 group-title="Movie"tvg-logo="https://i1.sndcdn.com/artworks-000270301463-9byhni-t500x500.jpg",Cable Series 2
 http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries2/chunklist_w1310036100.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-01-020855.jpg",CTB
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
