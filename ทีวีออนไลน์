@@ -104,10 +104,10 @@ http://77.83.117.60:8888/02_2sporthd4_720p/chunklist.m3u8
 
 #=================================================================================================================================
 #EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgwaBs6JC835KwHF_MkY3KEu6UbzDmMDQBjw&usqp=CAU",BOX FILM
-https://cdn6.goprimetime.info/feed/LC52/index.m3u8
+http://61.19.242.134/feed/LC52/index.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgwaBs6JC835KwHF_MkY3KEu6UbzDmMDQBjw&usqp=CAU",SUN MOVIE
-https://cdn6.goprimetime.info/feed/LC1/index.m3u8
+http://61.19.242.134/feed/LC1/index.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgwaBs6JC835KwHF_MkY3KEu6UbzDmMDQBjw&usqp=CAU",SAMURAI MOVIE
 http://61.19.242.134:80/feed/LC2/index.m3u8
@@ -120,9 +120,9 @@ http://196.53.248.18:8081/live/banner0003/playlist.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://data.apksum.com/71/top.movhd.com.myapplication/mov9.3/icon.png",Movies 2
 http://196.53.248.18:8081/live/banner002/chunks.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://data.apksum.com/71/top.movhd.com.myapplication/mov9.3/icon.png",Movies 3
-http://196.53.248.18:8081/live/action001/chunks.m3u8
+http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel2/chunklist_w303936619.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://data.apksum.com/71/top.movhd.com.myapplication/mov9.3/icon.png",Movies 4
-http://196.53.248.18:8081/live/invest02/playlist.m3u8
+http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel/chunklist_w1127755900.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-01-020855.jpg",CTB
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 
