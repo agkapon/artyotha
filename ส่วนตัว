@@ -1,0 +1,245 @@
+{
+"name": "Freelist",
+"author": "หนัง, ซืรีย์อัพเดตใหม่ แจ้งในโน๊ตกลุ่มนะครับ",
+"image": "https://dl.dropbox.com/s/khk919ocl53midu/Rounded_20201001_092306.png?dl=0",
+"url":"http://tiny.cc/Freelist15042021",
+"groups": [
+
+
+{
+"name": "ใช้ดูเพื่อความบันเทิงเท่านั้น ห้ามนำไปใช้ในเชิงพาณิชย์",
+"image": "https://www.234.in.th/images/2021/03/26/Rounded_20210222_151721.md.png",
+"url": "http://tiny.cc/free55015",
+"import": false
+},	
+{
+"name": "Digital TV",
+"image": "https://dl.dropbox.com/s/wyyn7v59icvs644/DVB%20T2.png",
+"url": "http://tiny.cc/dig55015",
+"import": false
+},	
+{
+"name": "World News",
+"image": "https://dl.dropbox.com/s/7fiowqnteqjpzq8/World%20news.png",
+"url": "http://tiny.cc/new55015",
+"import": false
+},
+{
+"name": "ทีวีต่างประเทศ",
+"image": "https://dl.dropbox.com/s/iw2fufa0m2hg9d6/tv%20world.png",
+"url": "http://tiny.cc/TV_Other",
+"import": false
+},	
+{
+"name": "Education",
+"image": "https://www.234.in.th/images/2021/03/26/Education.md.png",
+"url": "http://tiny.cc/educ55015",
+"import": false
+},
+{
+"name": "TV&MOVIES",
+"image": "https://www.234.in.th/images/2021/03/26/movie-live.png",
+"url": "http://tiny.cc/mov55015",
+"import": false
+},
+{
+"name": "Entertainment",
+"image": "https://www.234.in.th/images/2021/03/26/Entertian.md.png",
+"url": "http://tiny.cc/ent55015",
+"import": false
+},
+{
+"name": "Knowledge",
+"image": "https://www.234.in.th/images/2021/03/26/knowledge.md.png",
+"url": "http://tiny.cc/kno55015",
+"import": false 
+},
+{
+"name": "Kids Zone",
+"image": "https://www.234.in.th/images/2021/03/26/kid-zone.md.png",
+"url": "http://tiny.cc/kid55015",
+"import": false 
+},
+{
+"name": "Sports",
+"image": "https://www.234.in.th/images/2021/03/26/sport.md.png",
+"url": "http://tiny.cc/spo55015",
+"import": false 
+},	
+{
+"name": "Live Football",
+"image": "https://dl.dropbox.com/s/4131hnjq8luzjbl/Live%20Football.png",
+"url": "http://tiny.cc/live0105",
+"import": false 
+},	
+{
+
+
+
+"name": "Highlights Football",
+"image": "https://www.234.in.th/images/2021/03/26/Rounded_20210227_081316.md.png",
+"url": "https://dl.dropbox.com/s/irn388yt13s6x31/xRerun.w3u?dl=1",
+"import": false 
+},	
+{
+"name": "Thai Radio",
+"image": "https://www.234.in.th/images/2021/03/26/Radio.md.png",
+"url": "http://tiny.cc/rad55015",
+"import": false 
+},
+{
+"name": "หนังใหม่",
+"image": "https://www.234.in.th/images/2021/03/26/4AykXVfU_400x400.png",
+"url": "http://tiny.cc/movnew55015",
+"import": false 
+},	
+{
+"name": "หนังต่างประเทศ",
+"image": "https://dl.dropbox.com/s/8pshb4phpsmx3n9/movie%20inter.png",
+"url": "http://tiny.cc/T155015",
+"import": false 
+},	
+{
+"name": "หนัง 4K",
+"image": "https://www.234.in.th/images/2021/03/26/Rounded_20210112_235420.md.png",
+"url": "http://tiny.cc/4kk55015",
+"import": false 
+},
+{
+"name": "หนังไตรภาค",
+"image": "https://dl.dropbox.com/s/pczey1t6lh343fw/Movie-Collection1.png?dl=0",
+"url": "http://tiny.cc/T5555015",
+"import": false 
+},	
+{
+"name": "ขุดกรุหนังเก่า",
+"image": "https://www.234.in.th/images/2021/03/26/Old-movie.md.png",
+"url": "http://tiny.cc/old55015",
+"import": false 
+},	
+{
+"name": "หนังแอ๊คชั่น",
+"image": "https://dl.dropbox.com/s/r6rf3enih6fprjg/Action%20Movies.png?dl=0",
+"url": "https://dl.dropbox.com/s/7ycv7f6aht5too2/T12.w3u?dl=0",
+"import": false 
+},	
+{
+"name": "หนังสงคราม",
+"image": "https://www.234.in.th/images/2021/03/26/war-movies.md.png",
+"url": "https://www.dropbox.com/s/sim1wqpfsg79e3s/T9.w3u?dl=1",
+"import": false 
+},	
+{
+"name": "หนังคาวบอย",
+"image": "https://dl.dropbox.com/s/ywsavkvdhwfjuqk/Cowboy.png?dl=0",
+"url": "https://dl.dropbox.com/s/tfyl5auqr6z4i7y/T10.w3u?dl=0",
+"import": false 
+},	
+{
+"name": "หนังสยองขวัญ",
+"image": "https://dl.dropbox.com/s/lvp73wv6a92pmbo/horror%20movies.png?dl=0",
+"url": "https://dl.dropbox.com/s/cn1zgiqhyvjd741/T11.w3u?dl=0",
+"import": false 
+},	
+{
+"name": "หนังเอเชีย",
+"image": "https://dl.dropbox.com/s/0mtxb16iqof4kuz/asian%20movies.png?dl=0",
+"url": "http://tiny.cc/asia55015",
+"import": false
+},
+{
+"name": "หนังอินเดีย",
+"image": "https://www.234.in.th/images/2021/03/26/india-movie.md.png",
+"url": "http://tiny.cc/india55015",
+"import": false 
+},	
+{
+"name": "หนังไทย",
+"image": "https://www.234.in.th/images/2021/03/26/Thai-movie1.md.png",
+"url": "http://tiny.cc/thai55015",
+"import": false 
+},	
+{
+"name": "หนังอนิเมะ",
+"image": "https://www.234.in.th/images/2021/03/26/anime-movie.md.png",
+"url": "http://tiny.cc/anim55015",
+"import": false  
+},
+{
+"name": "หนังตามคำขอ",
+"image": "https://www.234.in.th/images/2021/03/26/Movies-Req.md.png",
+"url": "https://dl.dropbox.com/s/10x540viv0dobz4/T8.w3u?dl=0",
+"import": false  
+},
+{
+"name": "ซีรีย์ต่างประเทศ",
+"image": "https://dl.dropbox.com/s/nvobx5xyhovxb9e/usa%20.png?dl=0",
+"url": "http://tiny.cc/serieinter55015",
+"import": false 
+},	
+{
+"name": "ซีรีย์ออนแอร์",
+"image": "https://dl.dropbox.com/s/bx5eyhhnnvq7ehg/Series%20On%20air.png?dl=0",
+"url": "https://dl.dropbox.com/s/2tdmtjrd750h9q9/Series%20On%20Air.w3u?dl=0",
+"import": false 
+},	
+{
+"name": "รายการทีวีย้อนหลัง",
+"image": "https://dl.dropbox.com/s/kv50q0wspsezvrw/variety.png",
+"url":"http://tiny.cc/variety_tv",
+"import": false
+},	
+{
+"name": "ซีรี่ย์ไทย",
+"image": "https://www.234.in.th/images/2021/03/26/thai-series.md.png",
+"url": "http://tiny.cc/thaiserie55015",
+"import": false 
+},	
+{
+"name": "ซีรีย์จีน",
+"image": "https://dl.dropbox.com/s/bbsd2wwwt2he58i/china%20series.png?dl=0",
+"url": "http://tiny.cc/seriec55015",
+"import": false 
+},	
+{
+"name": "ซีรีย์ญี่ปุ่น",
+"image": "https://dl.dropbox.com/s/tlhwsy1s8edte8c/japan%20series.png?dl=0",
+"url": "http://tiny.cc/Jap55015",
+"import": false  
+},
+{
+"name": "ซีรีย์เกาหลี",
+"image": "https://dl.dropbox.com/s/0cvod8lolpwgy6w/k%20Series.png?dl=0",
+"url": "http://tiny.cc/seriek55015",
+"import": false 
+},	
+{
+"name": "ซีรีย์อินเดีย",
+"image": "https://dl.dropbox.com/s/d96oiykrityhslv/india%2001.png?dl=0",
+"url": "http://tiny.cc/seriei55",
+"import": false 
+},	
+{
+"name": "ซีรีย์อนิเมะ",
+"image": "https://www.234.in.th/images/2021/03/26/anime-series.md.png",
+"url": "http://tiny.cc/serieani55015",
+"import": false 
+},	
+{
+"name": "Concert",
+"image": "https://www.234.in.th/images/2021/03/26/Concert.md.png",
+"url": "http://tiny.cc/con55015",
+"import": false
+},	
+{
+"name": "Karaoke",
+"image": "https://dl.dropbox.com/s/zna2royjdem3bpk/karaoke.png",
+"url": "http://tiny.cc/karaoke_nu",
+"import": false
+
+
+
+ 
+}
+]
+}
