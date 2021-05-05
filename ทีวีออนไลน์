@@ -101,8 +101,8 @@ http://61.19.242.134/feed/LC23/playlist.m3u8
 http://61.19.242.134/feed/chboomberang/index.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/animax.png",Animax
 http://61.19.242.134/feed/LC38/playlist.m3u8
-
-
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://wacth.officebk.co/uploads/tv_image/pet-club.png",Pet club TV
+http://61.19.242.134/feed/LC18/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075334.jpg",Premier HD1
 https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8
