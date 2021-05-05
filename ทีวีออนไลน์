@@ -98,6 +98,14 @@ http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.doofree88.com/storage/live/4uzhoi4RaAoLfifFJ4iV4h3zkwiyeq4Ky6HeiCID.png",True sport4
 http://77.83.117.60:8888/02_2sporthd4_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-foxsports1.png" group-title="Sports",FOX SPORTS 1
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-foxsports2.png" group-title="Sports",FOX SPORTS 2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-foxsports3.png" group-title="Sports",FOX SPORTS 3
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist.m3u8
 
 
 
