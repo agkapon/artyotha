@@ -19,6 +19,13 @@
 "import": false
 },	
 {
+"name": "ช่องรายการสด",
+"image": "https://www.isranews.org/images/2018/isranews/04/25042018.jpg",
+"url": "https://dl.dropbox.com/s/uz7wg4hvg0z5cmv/Live%20Menu.w3u",
+"referer": "https://www.adfbet.com/"
+},
+
+{
 "name": "World News",
 "image": "https://dl.dropbox.com/s/7fiowqnteqjpzq8/World%20news.png",
 "url": "http://tiny.cc/new55015",
