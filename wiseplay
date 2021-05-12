@@ -6,6 +6,12 @@
 "groups": [
 
 {
+"name": "Digital TV",
+"image": "https://dl.dropbox.com/s/wyyn7v59icvs644/DVB%20T2.png",
+"url": "http://tiny.cc/dig55015",
+"import": false
+},	
+{
 "name": "ช่องรายการสด",
 "image": "https://www.isranews.org/images/2018/isranews/04/25042018.jpg",
 "url": "https://dl.dropbox.com/s/uz7wg4hvg0z5cmv/Live%20Menu.w3u",
@@ -105,14 +111,6 @@
 "url": "http://tiny.cc/karaoke_nu",
 "import": false
 },	
-
-{
-"name": "Digital TV",
-"image": "https://dl.dropbox.com/s/wyyn7v59icvs644/DVB%20T2.png",
-"url": "http://tiny.cc/dig55015",
-"import": false
-},	
-
 {
 "name": "หนังใหม่",
 "image": "https://www.img.in.th/images/d5a8bb2995d59531fc9e93fcfe3113e1.jpg",
