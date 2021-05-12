@@ -23,6 +23,50 @@
 "referer": "https://www.adfbet.com/"
 },
 {
+"name": "หนังใหม่",
+"image": "https://www.img.in.th/images/d5a8bb2995d59531fc9e93fcfe3113e1.jpg",
+"url": "https://dl.dropbox.com/s/pewbq7pf101uvin/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88.txt?",
+"import": false
+},
+
+{
+"name": "หนัง4K",
+"image": "https://www.picz.in.th/images/2018/01/19/4KBanner-Big.jpg",
+"url": "https://dl.dropbox.com/s/kkyp4fxr8mw5sb3/4k.txt",
+"import": false
+},
+
+{
+"name": "Movie",
+"image": "https://www.img.in.th/images/ce528f5c6f0a437e03a1248ccc39f476.jpg",
+"url": "https://dl.dropbox.com/s/knf9yls6gidxsh4/MOVIE4.w3u",
+"import": false
+}, 
+{
+"name": "รวมหนังภาคต่อ",
+"image": "https://i.imgur.com/gQz4ijq.png",
+"url": "https://dl.dropbox.com/s/seq6w3f9qf8jir9/mix%20movie.w3u",
+"import": false
+}, 
+{
+"name": "หนังไทย",
+"image": "https://www.img.in.th/images/40fdd96ce984cbac4df3800737297b17.jpg",
+"url": "https://dl.dropbox.com/s/743pakaxzdfxrbv/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2.txt",
+"import": false
+},
+{ 
+"name": "การ์ตูน",
+"image": "https://www.img.in.th/images/91951a558553e44ee181406db5963005.jpg",
+"url": "https://dl.dropbox.com/s/tsvy4bp3g6aumnd/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B9%E0%B8%99.txt",
+"import": false
+},
+{
+"name": "ซีรีย์รวมๆ",
+"image": "https://www.img.in.th/images/1b5e925b6ed5e3fa941a95fe99a57ff7.jpg",
+"url": "https://dl.dropbox.com/s/bl59nvvoyiwnzn0/Series%20Menu.w3u",
+"import": false
+},
+{
 "name": "World News",
 "image": "https://dl.dropbox.com/s/7fiowqnteqjpzq8/World%20news.png",
 "url": "http://tiny.cc/new55015",
