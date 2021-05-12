@@ -19,6 +19,30 @@
 "url": "https://dl.dropbox.com/s/uz7wg4hvg0z5cmv/Live%20Menu.w3u",
 "referer": "https://www.adfbet.com/"
 },
+{
+"name": "Movie",
+"image": "https://www.img.in.th/images/ce528f5c6f0a437e03a1248ccc39f476.jpg",
+"url": "https://dl.dropbox.com/s/knf9yls6gidxsh4/MOVIE4.w3u",
+"import": false
+}, 
+
+
+{
+"name": "หนังใหม่",
+"image": "https://www.img.in.th/images/d5a8bb2995d59531fc9e93fcfe3113e1.jpg",
+"url": "https://dl.dropbox.com/s/pewbq7pf101uvin/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88.txt?",
+"import": false
+},
+
+{
+"name": "หนัง4K",
+"image": "https://www.picz.in.th/images/2018/01/19/4KBanner-Big.jpg",
+"url": "https://dl.dropbox.com/s/kkyp4fxr8mw5sb3/4k.txt",
+"import": false
+},
+
+
+
 
 {
 "name": "World News",
@@ -126,8 +150,4 @@
 }
 ]
 }
-
-
- 
-
 
