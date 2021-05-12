@@ -28,12 +28,7 @@
 "import": false
 },
 
-{
-"name": "Movie",
-"image": "https://www.img.in.th/images/ce528f5c6f0a437e03a1248ccc39f476.jpg",
-"url": "https://dl.dropbox.com/s/knf9yls6gidxsh4/MOVIE4.w3u",
-"import": false
-}, 
+
 
 
 {
@@ -131,14 +126,6 @@
 "import": false
 },	
 {
-
-"name": "รวมผลงาน น้าค่อม",
-"image": "https://dl.dropbox.com/s/jshw45bswruicwb/Na%20kom.png",
-"url": "http://gg.gg/mix-nakom",
-"import": false
-
-
- 
 }
 ]
 }
