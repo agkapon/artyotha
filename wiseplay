@@ -1,49 +1,23 @@
 {
-"name": "สำหรับใช้ส่วนตัว",
-"author": "หนัง, ซืรีย์อัพเดตใหม่",
-"image": "https://wacth.tv/images/logo2.png",
-"url":"https://raw.githubusercontent.com/agkapon/artyotha/master/wiseplay",
+"name": "Freelist",
+"author": "หนัง, ซืรีย์อัพเดตใหม่ แจ้งในโน๊ตกลุ่มนะครับ",
+"image": "https://dl.dropbox.com/s/s70bnrdharn6o0y/NUTV.png",
+"url":"https://dl.dropbox.com/s/to0wi4y6dwvbz9j/Freelist10-5-64.w3u?dl=0",
 "groups": [
 
 
+{
+"name": "ใช้ดูเพื่อความบันเทิงเท่านั้น ห้ามนำไปใช้ในเชิงพาณิชย์",
+"image": "https://www.234.in.th/images/2021/03/26/Rounded_20210222_151721.md.png",
+"url": "http://tiny.cc/free55015",
+"import": false
+},	
 {
 "name": "Digital TV",
 "image": "https://dl.dropbox.com/s/wyyn7v59icvs644/DVB%20T2.png",
 "url": "http://tiny.cc/dig55015",
 "import": false
 },	
-
-{
-"name": "ช่องรายการสด",
-"image": "https://www.isranews.org/images/2018/isranews/04/25042018.jpg",
-"url": "https://dl.dropbox.com/s/uz7wg4hvg0z5cmv/Live%20Menu.w3u",
-"referer": "https://www.adfbet.com/"
-},
-{
-"name": "Movie",
-"image": "https://www.img.in.th/images/ce528f5c6f0a437e03a1248ccc39f476.jpg",
-"url": "https://dl.dropbox.com/s/knf9yls6gidxsh4/MOVIE4.w3u",
-"import": false
-}, 
-
-
-{
-"name": "หนังใหม่",
-"image": "https://www.img.in.th/images/d5a8bb2995d59531fc9e93fcfe3113e1.jpg",
-"url": "https://dl.dropbox.com/s/pewbq7pf101uvin/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88.txt?",
-"import": false
-},
-
-{
-"name": "หนัง4K",
-"image": "https://www.picz.in.th/images/2018/01/19/4KBanner-Big.jpg",
-"url": "https://dl.dropbox.com/s/kkyp4fxr8mw5sb3/4k.txt",
-"import": false
-},
-
-
-
-
 {
 "name": "World News",
 "image": "https://dl.dropbox.com/s/7fiowqnteqjpzq8/World%20news.png",
@@ -150,4 +124,3 @@
 }
 ]
 }
-
