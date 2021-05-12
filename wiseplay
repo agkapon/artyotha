@@ -1,27 +1,24 @@
 {
-"name": "สำหรับใช้ส่วนตัว",
-"author": "หนัง, ซืรีย์อัพเดตใหม่ แจ้งในโน๊ตกลุ่มนะครับ",
-"image": "https://moviekub.com/images/logo/xowyBuLhw49XdtwszGNVF6JspP0Sdblmoviekub=logo.png",
-"url":"https://raw.githubusercontent.com/agkapon/artyotha/master/wiseplay",
+"name": "Maister Studio",
+"author": "อัพเดทล่าสุดวันที่ 11-5-64",
+"image": "https://media3.giphy.com/media/3o7WTx7X5YfBT4lq8M/giphy.gif",
+"url": "https://dl.dropbox.com/s/ctycejzxv0toa4y/Maister%20Studiov4.w3u",
 "groups": [
-{
-"name": "ใช้ดูเพื่อความบันเทิงเท่านั้น ห้ามนำไปใช้ในเชิงพาณิชย์",
-"image": "https://www.234.in.th/images/2021/03/26/Rounded_20210222_151721.md.png",
-"url": "http://tiny.cc/free55015",
-"import": false
-},	
-{
-"name": "Digital TV",
-"image": "https://dl.dropbox.com/s/wyyn7v59icvs644/DVB%20T2.png",
-"url": "http://tiny.cc/dig55015",
-"import": false
-},	
+
 {
 "name": "ช่องรายการสด",
 "image": "https://www.isranews.org/images/2018/isranews/04/25042018.jpg",
 "url": "https://dl.dropbox.com/s/uz7wg4hvg0z5cmv/Live%20Menu.w3u",
 "referer": "https://www.adfbet.com/"
 },
+
+{
+"name": "Digital TV",
+"image": "https://dl.dropbox.com/s/wyyn7v59icvs644/DVB%20T2.png",
+"url": "http://tiny.cc/dig55015",
+"import": false
+},	
+
 {
 "name": "หนังใหม่",
 "image": "https://www.img.in.th/images/d5a8bb2995d59531fc9e93fcfe3113e1.jpg",
@@ -54,6 +51,7 @@
 "url": "https://dl.dropbox.com/s/743pakaxzdfxrbv/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2.txt",
 "import": false
 },
+
 { 
 "name": "การ์ตูน",
 "image": "https://www.img.in.th/images/91951a558553e44ee181406db5963005.jpg",
@@ -66,105 +64,6 @@
 "url": "https://dl.dropbox.com/s/bl59nvvoyiwnzn0/Series%20Menu.w3u",
 "import": false
 },
-{
-"name": "World News",
-"image": "https://dl.dropbox.com/s/7fiowqnteqjpzq8/World%20news.png",
-"url": "http://tiny.cc/new55015",
-"import": false
-},
-{
-"name": "Education",
-"image": "https://www.234.in.th/images/2021/03/26/Education.md.png",
-"url": "http://tiny.cc/educ55015",
-"import": false
-},
-{
-"name": "TV&MOVIES",
-"image": "https://www.234.in.th/images/2021/03/26/movie-live.png",
-"url": "http://tiny.cc/mov55015",
-"import": false
-},
-{
-"name": "Entertainment",
-"image": "https://www.234.in.th/images/2021/03/26/Entertian.md.png",
-"url": "http://tiny.cc/ent55015",
-"import": false
-},
-{
-"name": "Knowledge",
-"image": "https://www.234.in.th/images/2021/03/26/knowledge.md.png",
-"url": "http://tiny.cc/kno55015",
-"import": false 
-},
-{
-"name": "Kids Zone",
-"image": "https://www.234.in.th/images/2021/03/26/kid-zone.md.png",
-"url": "http://tiny.cc/kid55015",
-"import": false 
-},
-{
-"name": "Sports",
-"image": "https://www.234.in.th/images/2021/03/26/sport.md.png",
-"url": "http://tiny.cc/spo55015",
-"import": false 
-},	
-{
-"name": "Live Football",
-"image": "https://dl.dropbox.com/s/4131hnjq8luzjbl/Live%20Football.png",
-"url": "http://tiny.cc/live0105",
-"import": false 
-},	
-{
-"name": "Highlights Football",
-"image": "https://www.234.in.th/images/2021/03/26/Rounded_20210227_081316.md.png",
-"url": "https://dl.dropbox.com/s/irn388yt13s6x31/xRerun.w3u?dl=1",
-"import": false 
-},	
-{
-"name": "Thai Radio",
-"image": "https://www.234.in.th/images/2021/03/26/Radio.md.png",
-"url": "http://tiny.cc/rad55015",
-"import": false 
-},
-{
-"name": "The Movies",
-"image": "https://dl.dropbox.com/s/lp7n3xwtsb7rith/The%20Movies.png",
-"url": "http://tiny.cc/TheMovies75015",
-"import": false 
-},
-{
-"name": "TV Series",
-"image": "https://dl.dropbox.com/s/9p0sevvqpjponb7/Watch-TV-Series.png",
-"url": "http://tiny.cc/TvSeries75015",
-"import": false 
-},
-{
-"name": "รายการทีวีย้อนหลัง",
-"image": "https://dl.dropbox.com/s/kv50q0wspsezvrw/variety.png",
-"url":"http://tiny.cc/variety_tv",
-"import": false
-},
-{
-"name": "Concert",
-"image": "https://www.234.in.th/images/2021/03/26/Concert.md.png",
-"url": "http://tiny.cc/con55015",
-"import": false
-},	
-{
-"name": "Karaoke",
-"image": "https://dl.dropbox.com/s/zna2royjdem3bpk/karaoke.png",
-"url": "http://tiny.cc/karaoke_nu",
-"import": false
-},	
-{
 
-"name": "รวมผลงาน น้าค่อม",
-"image": "https://dl.dropbox.com/s/jshw45bswruicwb/Na%20kom.png",
-"url": "http://gg.gg/mix-nakom",
-"import": false
-
-
- 
-}
 ]
 }
