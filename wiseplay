@@ -2,13 +2,13 @@
 "name": "AGKAPON Studio",
 "author": "สำหรับใช้ส่วนตัวเท่านั้น อัฟเดท 12-5-64",
 "image": "https://wacth.tv/images/logo2.png",
-"url": "http://tiny.cc/r04itqi0",
+"url": "https://raw.githubusercontent.com/agkapon/artyotha/master/wiseplay",
 "groups": [
 
 {
 "name": "Digital TV",
 "image": "https://dl.dropbox.com/s/wyyn7v59icvs644/DVB%20T2.png",
-"url": "http://tiny.cc/dig55015",
+"url": "http://tiny.cc/dig75015",
 "import": false
 },	
 {
