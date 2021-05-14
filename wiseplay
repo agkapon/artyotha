@@ -25,11 +25,33 @@
 },
 
 {
+"name": "Sports",
+"image": "https://www.234.in.th/images/2021/03/26/sport.md.png",
+"url": "http://tiny.cc/spo75015",
+"import": false 
+},	
+
+{
 "name": "TV&MOVIES",
 "image": "https://www.234.in.th/images/2021/03/26/movie-live.png",
 "url": "http://tiny.cc/mov55015",
 "import": false
 },
+
+{
+"name": "The Movies",
+"image": "https://dl.dropbox.com/s/lp7n3xwtsb7rith/The%20Movies.png",
+"url": "http://tiny.cc/TheMovies75015",
+"import": false 
+},
+
+{
+"name": "Movie",
+"image": "https://www.img.in.th/images/ce528f5c6f0a437e03a1248ccc39f476.jpg",
+"url": "https://dl.dropbox.com/s/knf9yls6gidxsh4/MOVIE4.w3u",
+"import": false
+}, 
+
 {
 "name": "Entertainment",
 "image": "https://www.234.in.th/images/2021/03/26/Entertian.md.png",
@@ -48,26 +70,6 @@
 "url": "http://tiny.cc/kid55015",
 "import": false 
 },
-{
-"name": "Sports",
-"image": "https://www.234.in.th/images/2021/03/26/sport.md.png",
-"url": "http://tiny.cc/spo75015",
-"import": false 
-},	
-
-{
-"name": "The Movies",
-"image": "https://dl.dropbox.com/s/lp7n3xwtsb7rith/The%20Movies.png",
-"url": "http://tiny.cc/TheMovies75015",
-"import": false 
-},
-
-{
-"name": "Movie",
-"image": "https://www.img.in.th/images/ce528f5c6f0a437e03a1248ccc39f476.jpg",
-"url": "https://dl.dropbox.com/s/knf9yls6gidxsh4/MOVIE4.w3u",
-"import": false
-}, 
 
 {
 "name": "ซีรี่",
