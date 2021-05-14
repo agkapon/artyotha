@@ -24,14 +24,6 @@
 "import": false
 },
 
-
-{
-
-"name": "Education",
-"image": "https://www.234.in.th/images/2021/03/26/Education.md.png",
-"url": "http://tiny.cc/educ55015",
-"import": false
-},
 {
 "name": "TV&MOVIES",
 "image": "https://www.234.in.th/images/2021/03/26/movie-live.png",
@@ -76,6 +68,13 @@
 "import": false 
 },
 {
+"name": "ซีรีย์รวมๆ",
+"image": "https://www.img.in.th/images/1b5e925b6ed5e3fa941a95fe99a57ff7.jpg",
+"url": "https://dl.dropbox.com/s/bl59nvvoyiwnzn0/Series%20Menu.w3u",
+"import": false
+},
+
+{
 "name": "รายการทีวีย้อนหลัง",
 "image": "https://dl.dropbox.com/s/kv50q0wspsezvrw/variety.png",
 "url":"http://tiny.cc/variety_Nutv",
@@ -93,6 +92,20 @@
 "url": "http://tiny.cc/KaraOKE_NUtv",
 "import": false
 },	
+
+{
+"name": "Movie",
+"image": "https://www.img.in.th/images/ce528f5c6f0a437e03a1248ccc39f476.jpg",
+"url": "https://dl.dropbox.com/s/knf9yls6gidxsh4/MOVIE4.w3u",
+"import": false
+}, 
+{
+"name": "The Movies",
+"image": "https://dl.dropbox.com/s/lp7n3xwtsb7rith/The%20Movies.png",
+"url": "http://tiny.cc/TheMovies75015",
+"import": false 
+},
+
 {
 "name": "หนังใหม่",
 "image": "https://www.img.in.th/images/d5a8bb2995d59531fc9e93fcfe3113e1.jpg",
@@ -107,18 +120,7 @@
 "import": false
 },
 
-{
-"name": "Movie",
-"image": "https://www.img.in.th/images/ce528f5c6f0a437e03a1248ccc39f476.jpg",
-"url": "https://dl.dropbox.com/s/knf9yls6gidxsh4/MOVIE4.w3u",
-"import": false
-}, 
-{
-"name": "The Movies",
-"image": "https://dl.dropbox.com/s/lp7n3xwtsb7rith/The%20Movies.png",
-"url": "http://tiny.cc/TheMovies75015",
-"import": false 
-},
+
 {
 "name": "รวมหนังภาคต่อ",
 "image": "https://i.imgur.com/gQz4ijq.png",
@@ -138,12 +140,7 @@
 "url": "https://dl.dropbox.com/s/tsvy4bp3g6aumnd/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B9%E0%B8%99.txt",
 "import": false
 },
-{
-"name": "ซีรีย์รวมๆ",
-"image": "https://www.img.in.th/images/1b5e925b6ed5e3fa941a95fe99a57ff7.jpg",
-"url": "https://dl.dropbox.com/s/bl59nvvoyiwnzn0/Series%20Menu.w3u",
-"import": false
-},
+
 
 
 
