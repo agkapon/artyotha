@@ -62,7 +62,7 @@
 "import": false 
 },
 {
-"name": "TV Series",
+"name": "ซีรี่",
 "image": "https://dl.dropbox.com/s/9p0sevvqpjponb7/Watch-TV-Series.png",
 "url": "http://tiny.cc/TvSeries75015",
 "import": false 
@@ -74,24 +74,7 @@
 "import": false
 },
 
-{
-"name": "รายการทีวีย้อนหลัง",
-"image": "https://dl.dropbox.com/s/kv50q0wspsezvrw/variety.png",
-"url":"http://tiny.cc/variety_Nutv",
-"import": false
-},
-{
-"name": "Concert",
-"image": "https://www.234.in.th/images/2021/03/26/Concert.md.png",
-"url": "http://tiny.cc/con55015",
-"import": false
-},	
-{
-"name": "Karaoke",
-"image": "https://dl.dropbox.com/s/zna2royjdem3bpk/karaoke.png",
-"url": "http://tiny.cc/KaraOKE_NUtv",
-"import": false
-},	
+
 
 {
 "name": "Movie",
@@ -141,6 +124,12 @@
 "import": false
 },
 
+{
+"name": "รายการทีวีย้อนหลัง",
+"image": "https://dl.dropbox.com/s/kv50q0wspsezvrw/variety.png",
+"url":"http://tiny.cc/variety_Nutv",
+"import": false
+},
 
 
 
