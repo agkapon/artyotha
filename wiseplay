@@ -24,12 +24,7 @@
 "import": false
 },
 
-{
-"name": "World News",
-"image": "https://dl.dropbox.com/s/7fiowqnteqjpzq8/World%20news.png",
-"url": "http://tiny.cc/new55015",
-"import": false
-},
+
 {
 
 "name": "Education",
@@ -67,27 +62,7 @@
 "url": "http://tiny.cc/spo75015",
 "import": false 
 },	
-{
-"name": "Live Football",
-"image": "https://dl.dropbox.com/s/4131hnjq8luzjbl/Live%20Football.png",
-"url": "http://tiny.cc/LIVE_NUtv",
-"import": false 
-},	
-{
 
-
-
-"name": "Highlights Football",
-"image": "https://www.234.in.th/images/2021/03/26/Rounded_20210227_081316.md.png",
-"url": "http://tiny.cc/hFootball0521",
-"import": false 
-},	
-{
-"name": "Thai Radio",
-"image": "https://www.234.in.th/images/2021/03/26/Radio.md.png",
-"url": "http://tiny.cc/rad55015",
-"import": false 
-},
 {
 "name": "The Movies",
 "image": "https://dl.dropbox.com/s/lp7n3xwtsb7rith/The%20Movies.png",
