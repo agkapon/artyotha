@@ -177,10 +177,8 @@
 
 
 "name":"TRUE FILM",
-"image":"https://wacth.officebk.co/uploads/tv_image/true-film-hd.png",
+"image":"https://dl.dropbox.com/s/mf11hujic1ul7qg/FOX%20NEWS.png?dl=0",
 "url":"https://wacth.tv/tv-player/true-film-hd.html",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
-"userAgent": "exoplayer_video",
 "playInNatPlayer": "true"
 
 
