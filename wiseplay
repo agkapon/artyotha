@@ -36,9 +36,9 @@
 "url": "http://gg.gg/WHO-1"
 },
 {
-"name": "vod 4k",
-"image": "https://www.dropbox.com/s/odxbbcgcwyy1b3e/8.jpg?dl=1",
-"url": "https://dl.dropbox.com/s/1he7oawr44vrh5l/9-Real%204k.w3u?dl=0",
+"name": "Movie",
+"image": "https://www.dropbox.com/s/bzv0egcdvyb5ure/7.jpg?dl=1",
+"url": "https://dl.dropbox.com/s/o1wao7bndnts76r/G-MOVIE.w3u?dl=0",
 "import": false
 },
 {
@@ -63,7 +63,7 @@
 },
 
 {
-"name": "Movie",
+"name": "Movieรวม",
 "image": "https://www.img.in.th/images/ce528f5c6f0a437e03a1248ccc39f476.jpg",
 "url": "https://dl.dropbox.com/s/knf9yls6gidxsh4/MOVIE4.w3u",
 "import": false
