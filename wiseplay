@@ -83,12 +83,6 @@
 "import": false 
 },
 
-{
-"name": "การ์ตูน",
-"image": "https://www.234.in.th/images/2021/03/26/kid-zone.md.png",
-"url": "https://bit.ly/31Tfqg5",
-"import": false 
-},
 
 
 {
@@ -131,6 +125,14 @@
 "url": "https://dl.dropbox.com/s/743pakaxzdfxrbv/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2.txt",
 "import": false
 },
+
+{
+"name": "การ์ตูน",
+"image": "https://www.234.in.th/images/2021/03/26/kid-zone.md.png",
+"": "https://bit.ly/31Tfqg5",
+"import": false 
+},
+
 
 { 
 "name": "การ์ตูน",
