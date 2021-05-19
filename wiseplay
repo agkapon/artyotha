@@ -126,12 +126,12 @@
 "import": false
 },
 
-{
-"name": "การ์ตูน",
-"image": "https://www.234.in.th/images/2021/03/26/kid-zone.md.png",
-"": "https://bit.ly/31Tfqg5",
-"import": false 
-},
+
+
+
+
+
+
 
 
 { 
@@ -145,7 +145,7 @@
 "name": "รายการทีวีย้อนหลัง",
 "image": "https://dl.dropbox.com/s/kv50q0wspsezvrw/variety.png",
 "url":"http://tiny.cc/variety_Nutv",
-"import": false
+
 },
 
 
