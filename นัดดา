@@ -1,0 +1,22 @@
+{
+"name": "AGKAPON Studio",
+"author": "สำหรับใช้ส่วนตัวเท่านั้น อัฟเดท 19-5-64",
+"image": "https://wacth.tv/images/logo2.png",
+"url": "https://raw.githubusercontent.com/agkapon/artyotha/master/wiseplay",
+"groups": [
+
+{
+"name": "ช่องทีวีดิจิตอล",
+"image": "https://dl.dropbox.com/s/wyyn7v59icvs644/DVB%20T2.png",
+"url": "http://tiny.cc/dig75015",
+"import": false
+},	
+{
+"name": "ช่องรายการสด",
+"image": "https://www.isranews.org/images/2018/isranews/04/25042018.jpg",
+"url": "https://dl.dropbox.com/s/uz7wg4hvg0z5cmv/Live%20Menu.w3u",
+"referer": "https://www.adfbet.com/"
+},
+
+]
+}
