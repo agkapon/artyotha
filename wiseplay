@@ -6,7 +6,7 @@
 "groups": [
 
 {
-"name": "Digital TV",
+"name": "ช่องทีดิจิตอล",
 "image": "https://dl.dropbox.com/s/wyyn7v59icvs644/DVB%20T2.png",
 "url": "http://tiny.cc/dig75015",
 "import": false
@@ -37,7 +37,7 @@
 "import": false
 },
 {
-"name": "Sports",
+"name": "ช่องกีฬา",
 "image": "https://www.234.in.th/images/2021/03/26/sport.md.png",
 "url": "http://tiny.cc/spo75015",
 "import": false 
