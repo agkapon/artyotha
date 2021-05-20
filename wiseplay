@@ -1,18 +1,11 @@
 {
 "name": "AGKAPON STUDIO",
-"author": "หนัง, ซืรีย์อัพเดตล่าสุด 20-5-2564",
-"image": "https://dl.dropbox.com/s/s70bnrdharn6o0y/NUTV.png",
+"author": "สำหรับใช้ส่วนตัวเท่านั้น อัฟเดท 20-5-64",
+"image": "https://wacth.tv/images/logo2.png",
 "url": "https://raw.githubusercontent.com/agkapon/artyotha/master/wiseplay",
 "groups": [
 
-	
 
-{
-"name": "ใช้ดูเพื่อความบันเทิงเท่านั้น ห้ามนำไปใช้ในเชิงพาณิชย์",
-"image": "https://dl.dropbox.com/s/l01kdt5syoahwbi/Rounded_20210222_151721.png?dl=0",
-"url": "https://dl.dropbox.com/s/zszxn26r39t5i7u/Free.w3u?dl=0",
-"import": false
-},	
 {
 "name": "Digital TV",
 "image": "https://dl.dropbox.com/s/wyyn7v59icvs644/DVB%20T2.png",
@@ -123,14 +116,7 @@
 "url": "http://tiny.cc/KaraOKE_NUtv",
 "import": false
 },	
-{
-"name": "รวมผลงาน น้าค่อม",
-"image": "https://dl.dropbox.com/s/jshw45bswruicwb/Na%20kom.png",
-"url": "http://gg.gg/mix-nakom01",
-"import": false
 
-
-}
 ]
 }
 "name": "หนังใหม่",
@@ -192,12 +178,7 @@
 "url": "https://dl.dropbox.com/s/68pjo4jmqvk37et/T6.w3u?dl=0",
 "import": false
 },
-{
-"name": "หนังอินเดีย",
-"image": "https://www.234.in.th/images/2021/03/26/india-movie.md.png",
-"url": "https://dl.dropbox.com/s/yj4cg9biaeemabq/T7.w3u?dl=0",
-"import": false 
-},	
+
 {
 "name": "หนังไทย",
 "image": "https://www.234.in.th/images/2021/03/26/Thai-movie1.md.png",
