@@ -21,6 +21,14 @@
 },
 
 {
+"name": "ส่วนตัว",
+"image": "https://www.img.in.th/images/3e44c51d08816795416ef767d1bb358f.jpg",
+"url": "https://dl.dropboxusercontent.com/s/g1fnkuq7y8i29mu/ช่องส่วนตัว.w3u",
+"import": false
+},
+
+
+{
 "name": "Nanyang TV",
 "image": "https://dl.dropbox.com/s/lp7n3xwtsb7rith/The%20Movies.png","imageScale": "centerCrop",
 "url": "http://bit.ly/NanyangTV"
