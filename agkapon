@@ -1,23 +1,271 @@
 {
-"name": "AGKAPON Studio",
-"author": "สำหรับใช้ส่วนตัวเท่านั้น อัฟเดท 19-5-64",
-"image": "https://wacth.tv/images/logo2.png",
-"url": "https://raw.githubusercontent.com/agkapon/artyotha/master/agkapon",
+"name": "AGKAPON STUDIO",
+"author": "หนัง, ซืรีย์อัพเดตล่าสุด 20-5-2564",
+"image": "https://dl.dropbox.com/s/s70bnrdharn6o0y/NUTV.png",
+"url": "http://tiny.cc/freelist73593a",
 "groups": [
 
+	
+
 {
-"name": "ช่องทีวีดิจิตอล",
+"name": "ใช้ดูเพื่อความบันเทิงเท่านั้น ห้ามนำไปใช้ในเชิงพาณิชย์",
+"image": "https://dl.dropbox.com/s/l01kdt5syoahwbi/Rounded_20210222_151721.png?dl=0",
+"url": "https://dl.dropbox.com/s/zszxn26r39t5i7u/Free.w3u?dl=0",
+"import": false
+},	
+{
+"name": "Digital TV",
 "image": "https://dl.dropbox.com/s/wyyn7v59icvs644/DVB%20T2.png",
 "url": "http://tiny.cc/dig75015",
 "import": false
 },	
 {
-"name": "ช่องรายการสด",
-"image": "https://www.isranews.org/images/2018/isranews/04/25042018.jpg",
-"url": "https://dl.dropbox.com/s/uz7wg4hvg0z5cmv/Live%20Menu.w3u",
-"referer": "https://www.adfbet.com/"
+"name": "World News",
+"image": "https://dl.dropbox.com/s/7fiowqnteqjpzq8/World%20news.png",
+"url": "http://tiny.cc/new55015",
+"import": false
 },
+{
+"name": "ทีวีต่างประเทศ",
+"image": "https://dl.dropbox.com/s/by3l94oy6al3a3h/world-tv.png",
+"url": "https://dl.dropbox.com/s/s721nzzq9988ftk/TV-other.w3u?dl=0",
+"import": false
+},	
+{
+"name": "Education",
+"image": "https://www.234.in.th/images/2021/03/26/Education.md.png",
+"url": "https://dl.dropbox.com/s/ekty4y4cec2n3rr/Education.w3u?dl=0",
+"import": false
 
 
+
+},
+{
+"name": "TV&MOVIES",
+"image": "https://dl.dropbox.com/s/oqs144w64r7z5j6/movie%20live.png",
+"url": "https://dl.dropbox.com/s/46fv77pg4ncvbpz/Movies.w3u?dl=0",
+"import": false
+},
+{
+"name": "Entertainment",
+"image": "https://dl.dropbox.com/s/wufcy1nx045hqoq/Entertain.png",
+"url": "https://dl.dropbox.com/s/yteka2inzr2r2li/Entertainment.w3u?dl=0",
+"import": false
+},
+{
+"name": "Knowledge",
+"image": "https://www.234.in.th/images/2021/03/26/knowledge.md.png",
+"url": "https://dl.dropbox.com/s/dy3ufqd1p79mcid/Knowledge.w3u?dl=0",
+"import": false 
+},
+{
+"name": "Kids Zone",
+"image": "https://www.234.in.th/images/2021/03/26/kid-zone.md.png",
+"url": "https://dl.dropbox.com/s/s5cd1zcvm62y5ue/Kids.w3u?dl=0",
+"import": false 
+},
+{
+"name": "Sports",
+"image": "https://www.234.in.th/images/2021/03/26/sport.md.png",
+"url": "http://tiny.cc/spo75015",
+"import": false 
+},	
+{
+"name": "Live Football",
+"image": "https://dl.dropbox.com/s/4131hnjq8luzjbl/Live%20Football.png",
+"url": "http://tiny.cc/LIVE_NUtv",
+"import": false 
+},	
+{
+
+"name": "Highlights Football",
+"image": "https://www.234.in.th/images/2021/03/26/Rounded_20210227_081316.md.png",
+"url": "http://tiny.cc/hFootball0521",
+"import": false 
+},	
+{
+"name": "Thai Radio",
+"image": "https://www.234.in.th/images/2021/03/26/Radio.md.png",
+"url": "https://dl.dropbox.com/s/k490g5fawdjxq3e/Radio.w3u?dl=0",
+"import": false 
+},
+{
+"name": "The Movies",
+"image": "https://dl.dropbox.com/s/lp7n3xwtsb7rith/The%20Movies.png",
+"url": "http://tiny.cc/TheMovies75015",
+"import": false 
+},
+{
+
+"name": "TV Series",
+"author": "royrover",
+"image": "https://dl.dropbox.com/s/9p0sevvqpjponb7/Watch-TV-Series.png",
+"url": "http://tiny.cc/TvSeries75015",
+"import": false 
+},
+{
+
+"name": "รายการทีวีย้อนหลัง",
+"image": "https://dl.dropbox.com/s/kv50q0wspsezvrw/variety.png",
+"url":"http://tiny.cc/variety_Nutv",
+"import": false
+},	
+{
+
+"name": "Concert",
+"image": "https://www.234.in.th/images/2021/03/26/Concert.md.png",
+"url": "http://tiny.cc/con55015",
+"import": false 
+},	
+{
+"name": "Karaoke",
+"image": "https://dl.dropbox.com/s/zna2royjdem3bpk/karaoke.png",
+"url": "http://tiny.cc/KaraOKE_NUtv",
+"import": false
+},	
+{
+"name": "รวมผลงาน น้าค่อม",
+"image": "https://dl.dropbox.com/s/jshw45bswruicwb/Na%20kom.png",
+"url": "http://gg.gg/mix-nakom01",
+"import": false
+
+
+}
 ]
 }
+"name": "หนังใหม่",
+"image": "https://www.234.in.th/images/2021/03/26/4AykXVfU_400x400.png",
+"url": "https://dl.dropbox.com/s/wlz4qc6zifct7go/New%20Movie.txt?dl=0",
+"import": false 
+},	
+{
+"name": "หนังต่างประเทศ",
+"image": "https://www.234.in.th/images/2021/03/26/Rounded_20210227_093850.md.png",
+"url": "https://dl.dropbox.com/s/n7lfpc9jyb33rgi/Movie%20World.txt?dl=0",
+"import": false 
+},	
+{
+"name": "หนัง 4K",
+"image": "https://www.234.in.th/images/2021/03/26/Rounded_20210112_235420.md.png",
+"url": "https://dl.dropbox.com/s/0wzxntfodqjyu5x/4k.w3u?dl=0",
+"import": false 
+},
+{
+"name": "หนังไตรภาค",
+"image": "https://dl.dropbox.com/s/pczey1t6lh343fw/Movie-Collection1.png?dl=0",
+"url": "https://dl.dropbox.com/s/5br373zri0ap4du/T5.w3u?dl=0",
+"import": false 
+},	
+{
+"name": "ขุดกรุหนังเก่า",
+"image": "https://www.234.in.th/images/2021/03/26/Old-movie.md.png",
+"url": "https://dl.dropbox.com/s/tp81mo0cy7d8gbv/OldMovies.w3u?dl=0",
+"import": false 
+},	
+{
+"name": "หนังแอ๊คชั่น",
+"image": "https://dl.dropbox.com/s/r6rf3enih6fprjg/Action%20Movies.png?dl=0",
+"url": "https://dl.dropbox.com/s/7ycv7f6aht5too2/T12.w3u?dl=0",
+"import": false 
+},	
+{
+"name": "หนังสงคราม",
+"image": "https://www.234.in.th/images/2021/03/26/war-movies.md.png",
+"url": "https://dl.dropbox.com/s/sim1wqpfsg79e3s/T9.w3u?dl=0",
+"import": false 
+},	
+{
+"name": "หนังคาวบอย",
+"image": "https://dl.dropbox.com/s/ywsavkvdhwfjuqk/Cowboy.png?dl=0",
+"url": "https://dl.dropbox.com/s/tfyl5auqr6z4i7y/T10.w3u?dl=0",
+"import": false 
+},	
+{
+"name": "หนังสยองขวัญ",
+"image": "https://dl.dropbox.com/s/lvp73wv6a92pmbo/horror%20movies.png?dl=0",
+"url": "https://dl.dropbox.com/s/cn1zgiqhyvjd741/T11.w3u?dl=0",
+"import": false 
+},	
+{
+"name": "หนังเอเชีย",
+"image": "https://dl.dropbox.com/s/0mtxb16iqof4kuz/asian%20movies.png?dl=0",
+"url": "https://dl.dropbox.com/s/68pjo4jmqvk37et/T6.w3u?dl=0",
+"import": false
+},
+{
+"name": "หนังอินเดีย",
+"image": "https://www.234.in.th/images/2021/03/26/india-movie.md.png",
+"url": "https://dl.dropbox.com/s/yj4cg9biaeemabq/T7.w3u?dl=0",
+"import": false 
+},	
+{
+"name": "หนังไทย",
+"image": "https://www.234.in.th/images/2021/03/26/Thai-movie1.md.png",
+"url": "https://dl.dropbox.com/s/b7qdoj868qu1t04/T3.w3u?dl=0",
+"import": false 
+},	
+{
+"name": "หนังอนิเมะ",
+"image": "https://www.234.in.th/images/2021/03/26/anime-movie.md.png",
+"url": "https://dl.dropbox.com/s/ugkc033nfipit16/T4.w3u?dl=0",
+"import": false  
+},
+{
+"name": "หนังตามคำขอ",
+"image": "https://www.234.in.th/images/2021/03/26/Movies-Req.md.png",
+"url": "https://dl.dropbox.com/s/10x540viv0dobz4/T8.w3u?dl=0",
+"import": false  
+},
+{
+
+
+
+
+"name": "ซีรีย์ต่างประเทศ",
+"image": "https://dl.dropbox.com/s/nvobx5xyhovxb9e/usa%20.png?dl=0",
+"url": "https://dl.dropbox.com/s/2f643khb2dg4a5y/Serieinter.w3u?dl=0",
+"import": false 
+},	
+{
+"name": "ซีรีย์ออนแอร์",
+"image": "https://www.234.in.th/images/2021/03/26/Series-On-air.md.png",
+"url": "https://dl.dropbox.com/s/pj45lbi2480l6et/Series%20On%20Air.txt?dl=1",
+"import": false 
+},	
+{
+"name": "ซีรี่ย์ไทย",
+"image": "https://www.234.in.th/images/2021/03/26/thai-series.md.png",
+"url": "https://dl.dropbox.com/s/txlvzw4koq7bw28/SerieThai.w3u?dl=0",
+"import": false 
+},	
+{
+"name": "ซีรีย์จีน",
+"image": "https://dl.dropbox.com/s/bbsd2wwwt2he58i/china%20series.png?dl=0",
+"url": "https://dl.dropbox.com/s/3l9ago20uci6t4n/Serie-china.w3u?dl=0",
+"import": false 
+},	
+{
+"name": "ซีรีย์ญี่ปุ่น",
+"image": "https://dl.dropbox.com/s/tlhwsy1s8edte8c/japan%20series.png?dl=0",
+"url": "https://dl.dropbox.com/s/zgo1yznulpr63sa/Serie-japan.w3u?dl=0",
+"import": false  
+},
+{
+"name": "ซีรีย์เกาหลี",
+"image": "https://dl.dropbox.com/s/0cvod8lolpwgy6w/k%20Series.png?dl=0",
+"url": "https://dl.dropbox.com/s/8wwce4i45u2zgmj/Serie-korea.w3u?dl=0",
+"import": false 
+},	
+{
+"name": "ซีรีย์อินเดีย",
+"image": "https://dl.dropbox.com/s/d96oiykrityhslv/india%2001.png?dl=0",
+"url": "https://dl.dropbox.com/s/a614x5326e4c31m/Serie-india.w3u?dl=0",
+"import": false 
+},	
+{
+"name": "ซีรีย์อนิเมะ",
+"image": "https://www.234.in.th/images/2021/03/26/anime-series.md.png",
+"url": "https://dl.dropbox.com/s/llgr7cbyykkhh9v/Anime-S.w3u?dl=0",
+"import": false 
+},	
+{
