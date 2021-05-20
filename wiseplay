@@ -1,0 +1,158 @@
+{
+"name": "AGKAPON Studio",
+"author": "สำหรับใช้ส่วนตัวเท่านั้น อัฟเดท 19-5-64",
+"image": "https://wacth.tv/images/logo2.png",
+"url": "https://raw.githubusercontent.com/agkapon/artyotha/master/wiseplay",
+"groups": [
+
+{
+"name": "ช่องทีวีดิจิตอล",
+"image": "https://dl.dropbox.com/s/wyyn7v59icvs644/DVB%20T2.png",
+"url": "http://tiny.cc/dig75015",
+"import": false
+},	
+{
+"name": "ช่องรายการสด",
+"image": "https://www.isranews.org/images/2018/isranews/04/25042018.jpg",
+"url": "https://dl.dropbox.com/s/uz7wg4hvg0z5cmv/Live%20Menu.w3u",
+"referer": "https://www.adfbet.com/"
+},
+{
+"name": "ส่วนตัว",
+"image": "https://www.img.in.th/images/3e44c51d08816795416ef767d1bb358f.jpg",
+"url": "https://dl.dropboxusercontent.com/s/g1fnkuq7y8i29mu/ช่องส่วนตัว.w3u",
+"import": false
+},
+
+{
+"name": "Nanyang TV",
+"image": "http://3.bp.blogspot.com/-03pHGj4V42U/UZBchtEEcfI/AAAAAAAAQFw/u1XUiKaSPNU/s1600/3480_10151289219082376_1590105065_n.jpg","imageScale": "centerCrop",
+"url": "http://bit.ly/NanyangTV"
+},
+
+{
+"name": "Movieรวม",
+"image": "https://www.dropbox.com/s/bzv0egcdvyb5ure/7.jpg?dl=1",
+"url": "https://dl.dropbox.com/s/o1wao7bndnts76r/G-MOVIE.w3u?dl=0",
+"import": false
+},
+{
+"name": "ช่องกีฬา",
+"image": "https://www.234.in.th/images/2021/03/26/sport.md.png",
+"url": "http://tiny.cc/spo75015",
+"import": false 
+},	
+
+{
+"name": "TV&MOVIES",
+"image": "https://www.234.in.th/images/2021/03/26/movie-live.png",
+"url": "http://tiny.cc/mov55015",
+"import": false
+},
+
+{
+"name": "The Movies",
+"image": "https://dl.dropbox.com/s/lp7n3xwtsb7rith/The%20Movies.png",
+"url": "http://tiny.cc/TheMovies75015",
+"import": false 
+},
+
+{
+"name": "Movie",
+"image": "https://www.img.in.th/images/ce528f5c6f0a437e03a1248ccc39f476.jpg",
+"url": "https://dl.dropbox.com/s/knf9yls6gidxsh4/MOVIE4.w3u",
+"import": false
+}, 
+
+{
+"name": "Entertainment",
+"image": "https://www.234.in.th/images/2021/03/26/Entertian.md.png",
+"url": "http://tiny.cc/ent55015",
+"import": false
+},
+{
+"name": "Knowledge",
+"image": "https://www.234.in.th/images/2021/03/26/knowledge.md.png",
+"url": "http://tiny.cc/kno55015",
+"import": false 
+},
+{
+"name": "Kids Zone",
+"image": "https://www.234.in.th/images/2021/03/26/kid-zone.md.png",
+"url": "http://tiny.cc/kid55015",
+"import": false 
+},
+
+
+
+{
+"name": "ซีรี่",
+"image": "https://dl.dropbox.com/s/9p0sevvqpjponb7/Watch-TV-Series.png",
+"url": "http://tiny.cc/TvSeries75015",
+"import": false 
+},
+{
+"name": "ซีรีย์รวมๆ",
+"image": "https://www.img.in.th/images/1b5e925b6ed5e3fa941a95fe99a57ff7.jpg",
+"url": "https://dl.dropbox.com/s/bl59nvvoyiwnzn0/Series%20Menu.w3u",
+"import": false
+},
+
+{
+"name": "หนังใหม่",
+"image": "https://www.img.in.th/images/d5a8bb2995d59531fc9e93fcfe3113e1.jpg",
+"url": "https://dl.dropbox.com/s/pewbq7pf101uvin/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88.txt?",
+"import": false
+},
+
+{
+"name": "หนัง4K",
+"image": "https://www.picz.in.th/images/2018/01/19/4KBanner-Big.jpg",
+"url": "https://dl.dropbox.com/s/kkyp4fxr8mw5sb3/4k.txt",
+"import": false
+},
+
+
+{
+"name": "รวมหนังภาคต่อ",
+"image": "https://i.imgur.com/gQz4ijq.png",
+"url": "https://dl.dropbox.com/s/seq6w3f9qf8jir9/mix%20movie.w3u",
+"import": false
+}, 
+{
+"name": "หนังไทย",
+"image": "https://www.img.in.th/images/40fdd96ce984cbac4df3800737297b17.jpg",
+"url": "https://dl.dropbox.com/s/743pakaxzdfxrbv/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2.txt",
+"import": false
+},
+
+
+{ 
+"name": "Cartoon",
+"image": "https://www.img.in.th/images/91951a558553e44ee181406db5963005.jpg",
+"url": "https://bit.ly/31Tfqg5,
+"import": false
+},
+
+
+{ 
+"name": "การ์ตูน",
+"image": "https://www.img.in.th/images/91951a558553e44ee181406db5963005.jpg",
+"url": "https://dl.dropbox.com/s/tsvy4bp3g6aumnd/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B9%E0%B8%99.txt",
+"import": false
+},
+
+{
+"name": "รายการทีวีย้อนหลัง",
+"image": "https://dl.dropbox.com/s/kv50q0wspsezvrw/variety.png",
+"url":"http://tiny.cc/variety_Nutv",
+
+},
+
+
+
+
+
+
+]
+}
