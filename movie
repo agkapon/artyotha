@@ -5,6 +5,15 @@
 "url": "https://drive.google.com/uc?export=download&id=16UmzqXVqQLHa1KA-QFF-YZ1mJtMWgr11",
 "groups": [
 
+
+
+{
+"name": "หนังใหม่",
+"image": "https://www.img.in.th/images/d5a8bb2995d59531fc9e93fcfe3113e1.jpg",
+"url": "https://dl.dropbox.com/s/pewbq7pf101uvin/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88.txt?",
+"import": false
+},
+
 {
 "name": "The Movies",
 "image": "https://dl.dropbox.com/s/lp7n3xwtsb7rith/The%20Movies.png",
@@ -13,25 +22,13 @@
 
 },
 
-{
-"name": "หนังใหม่",
-"image": "https://www.img.in.th/images/d5a8bb2995d59531fc9e93fcfe3113e1.jpg",
-"url": "https://dl.dropbox.com/s/pewbq7pf101uvin/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88.txt?",
-"import": false
-},
+
 {
 "name": "Movie",
 "image": "https://www.img.in.th/images/ce528f5c6f0a437e03a1248ccc39f476.jpg",
 "url": "https://dl.dropbox.com/s/knf9yls6gidxsh4/MOVIE4.w3u",
 "import": false
 }, 
-
-{
-"name": "หนังไทย",
-"image": "https://www.img.in.th/images/40fdd96ce984cbac4df3800737297b17.jpg",
-"url": "https://dl.dropbox.com/s/743pakaxzdfxrbv/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2.txt",
-"import": false
-},
 
 {
 "name": "Movie1",
@@ -77,6 +74,12 @@
 "import": false
 },   
 
+{
+"name": "หนังไทย",
+"image": "https://www.img.in.th/images/40fdd96ce984cbac4df3800737297b17.jpg",
+"url": "https://dl.dropbox.com/s/743pakaxzdfxrbv/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2.txt",
+"import": false
+},
 
 ]
 }
