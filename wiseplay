@@ -5,6 +5,12 @@
 "url": "https://raw.githubusercontent.com/agkapon/artyotha/master/wiseplay",
 "groups": [
 
+{
+"name": "NU TV",
+"image": "https://dl.dropbox.com/s/s70bnrdharn6o0y/NUTV.png",
+"url": "http://tiny.cc/freelist73593a",
+"import": false
+},	
 
 {
 "name": "ช่องทีวีดิจิตอล",
