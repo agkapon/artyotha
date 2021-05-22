@@ -21,12 +21,17 @@
 },
 
 {
-"name": "ส่วนตัว",
-"image": "https://www.img.in.th/images/3e44c51d08816795416ef767d1bb358f.jpg",
-"url": "https://dl.dropboxusercontent.com/s/g1fnkuq7y8i29mu/ช่องส่วนตัว.w3u",
+"name": "ช่องทีวีดิจิตอล",
+"image": "https://dl.dropbox.com/s/wyyn7v59icvs644/DVB%20T2.png",
+"url": "http://tiny.cc/dig75015",
+"import": false
+},	
+{
+"name": "ช่องภาพยนต์ออนไลน์",
+"image": "https://dl.dropbox.com/s/oqs144w64r7z5j6/movie%20live.png",
+"url": "https://dl.dropbox.com/s/46fv77pg4ncvbpz/Movies.w3u?dl=0",
 "import": false
 },
-
 {
 "name": "Movieรวม",
 "image": "https://nolink.in/wp-content/uploads/2020/09/20200128_200128_000696-1.jpg",
