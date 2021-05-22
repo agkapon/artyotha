@@ -27,10 +27,6 @@
 "import": false
 },
 
-
-
-
-
 {
 "name": "Movieรวม",
 "image": "https://nolink.in/wp-content/uploads/2020/09/20200128_200128_000696-1.jpg",
@@ -38,7 +34,12 @@
 "import": false
 },
 
-
+{
+"name": "คลังหนัง",
+"image": "https://www.dropbox.com/s/n2drbo31z2sknfd/PicsArt_05-07-12.04.05.png?dl=1",
+"url": "https://www.dropbox.com/s/rw7t2z1h0kpmug9/%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87.w3u?dl=1",
+"import": false
+},
 
 { 
 "name": "การ์ตูน",
