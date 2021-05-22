@@ -14,7 +14,7 @@
 },
 
 {
-"name": "movie new",
+"name": "หนังใหม่",
 "image": "https://www.img.in.th/images/d5a8bb2995d59531fc9e93fcfe3113e1.jpg",
 "url": "https://dl.dropbox.com/s/pewbq7pf101uvin/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88.txt?",
 "import": false
@@ -27,7 +27,7 @@
 }, 
 
 {
-"name": "Movie TH",
+"name": "หนังไทย",
 "image": "https://www.img.in.th/images/40fdd96ce984cbac4df3800737297b17.jpg",
 "url": "https://dl.dropbox.com/s/743pakaxzdfxrbv/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2.txt",
 "import": false
@@ -64,14 +64,14 @@
 
 
 {
-"name": "Movie4K",
+"name": "หนัง4K",
 "image": "https://sites.google.com/site/doodeemovieshd/_/rsrc/1406463873718/home/The-Expendables-3.jpg",
 "url": "https://dl.dropbox.com/s/501es5g5xrcselq/Real%204k.w3u",
 "import": false
 },
 
 {
-"name": "Allmovie5000+",
+"name": "หนังรวม5000+",
 "image": "https://sv1.picz.in.th/images/2021/02/20/ooXs1t.png",
 "url": "https://dl.dropbox.com/s/k1d84ebosidq6t9/%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87.w3u?dl=0",
 "import": false
