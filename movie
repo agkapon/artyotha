@@ -1,0 +1,82 @@
+{
+"name": "movie",
+"author": "update  22-5-64",
+"image": "https://sv1.picz.in.th/images/2020/12/01/j3Socg.png",
+"url": "https://drive.google.com/uc?export=download&id=16UmzqXVqQLHa1KA-QFF-YZ1mJtMWgr11",
+"groups": [
+
+{
+"name": "The Movies",
+"image": "https://dl.dropbox.com/s/lp7n3xwtsb7rith/The%20Movies.png",
+"url": "http://tiny.cc/TheMovies75015",
+"import": false 
+
+},
+
+{
+"name": "movie new",
+"image": "https://www.img.in.th/images/d5a8bb2995d59531fc9e93fcfe3113e1.jpg",
+"url": "https://dl.dropbox.com/s/pewbq7pf101uvin/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88.txt?",
+"import": false
+},
+{
+"name": "Movie",
+"image": "https://www.img.in.th/images/ce528f5c6f0a437e03a1248ccc39f476.jpg",
+"url": "https://dl.dropbox.com/s/knf9yls6gidxsh4/MOVIE4.w3u",
+"import": false
+}, 
+
+{
+"name": "Movie TH",
+"image": "https://www.img.in.th/images/40fdd96ce984cbac4df3800737297b17.jpg",
+"url": "https://dl.dropbox.com/s/743pakaxzdfxrbv/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2.txt",
+"import": false
+},
+
+{
+"name": "Movie1",
+"image": "https://nolink.in/wp-content/uploads/2020/09/20200128_200128_000696-1.jpg",
+"url": "https://dl.dropbox.com/s/o1wao7bndnts76r/G-MOVIE.w3u?dl=0",
+"import": false
+},
+
+{
+"name": "Movie2",
+"image": "https://www.dropbox.com/s/n2drbo31z2sknfd/PicsArt_05-07-12.04.05.png?dl=1",
+"url": "https://www.dropbox.com/s/rw7t2z1h0kpmug9/%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87.w3u?dl=1",
+"import": false
+},
+
+{
+"name": "Movie3 ",
+"image": "https://i.imgur.com/gQz4ijq.png",
+"url": "https://dl.dropbox.com/s/seq6w3f9qf8jir9/mix%20movie.w3u",
+"import": false
+}, 
+
+{ 
+"name": "Movie4",
+"image": "http://gg.gg/uo5m1",
+"url": "http://gg.gg/uo6m2",
+"import": false
+},
+
+
+
+{
+"name": "Movie4K",
+"image": "https://sites.google.com/site/doodeemovieshd/_/rsrc/1406463873718/home/The-Expendables-3.jpg",
+"url": "https://dl.dropbox.com/s/501es5g5xrcselq/Real%204k.w3u",
+"import": false
+},
+
+{
+"name": "Allmovie5000+",
+"image": "https://sv1.picz.in.th/images/2021/02/20/ooXs1t.png",
+"url": "https://dl.dropbox.com/s/k1d84ebosidq6t9/%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87.w3u?dl=0",
+"import": false
+},   
+
+
+]
+}
