@@ -31,13 +31,12 @@
 "import": false
 },
 
-
 {
-"name": "Movie2 ",
-"image": "https://i.imgur.com/gQz4ijq.png",
-"url": "https://dl.dropbox.com/s/seq6w3f9qf8jir9/mix%20movie.w3u",
+"name": "หนังใหม่",
+"image": "https://www.img.in.th/images/d5a8bb2995d59531fc9e93fcfe3113e1.jpg",
+"url": "https://dl.dropbox.com/s/pewbq7pf101uvin/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88.txt?",
 "import": false
-}, 
+},
 
 {
 "name": "คลังหนัง",
