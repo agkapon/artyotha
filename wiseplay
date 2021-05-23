@@ -1,6 +1,6 @@
 {
 "name": "AGKAPON STUDIO",
-"author": "สำหรับใช้ส่วนตัวเท่านั้น อัฟเดท 22-5-64",
+"author": "สำหรับใช้ส่วนตัวเท่านั้น อัฟเดท 23-5-64",
 "image": "https://sv1.picz.in.th/images/2020/12/01/j3Socg.png",
 "url": "https://raw.githubusercontent.com/agkapon/artyotha/master/wiseplay",
 "groups": [
@@ -39,7 +39,7 @@
 },
 
 {
-"name": "Entertainment",
+"name": "Entertain",
 "image": "https://dl.dropbox.com/s/wufcy1nx045hqoq/Entertain.png",
 "url": "https://dl.dropbox.com/s/yteka2inzr2r2li/Entertainment.w3u?dl=0",
 "import": false
@@ -67,7 +67,7 @@
 },
 
 {
-"name": "ช่องรายการเด็ก",
+"name": "ช่องสำหรับเด็ก",
 "image": "https://www.234.in.th/images/2021/03/26/kid-zone.md.png",
 "url": "https://dl.dropbox.com/s/s5cd1zcvm62y5ue/Kids.w3u?dl=0",
 "import": false 
