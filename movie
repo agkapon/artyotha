@@ -7,12 +7,6 @@
 
 
 
-{
-"name": "หนังใหม่",
-"image": "https://www.img.in.th/images/d5a8bb2995d59531fc9e93fcfe3113e1.jpg",
-"url": "https://dl.dropbox.com/s/pewbq7pf101uvin/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88.txt?",
-"import": false
-},
 
 {
 "name": "The Movies",
@@ -51,12 +45,6 @@
 "import": false
 }, 
 
-{ 
-"name": "Movie4",
-"image": "http://gg.gg/uo5m1",
-"url": "http://gg.gg/uo6m2",
-"import": false
-},
 
 
 
