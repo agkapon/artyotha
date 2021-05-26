@@ -18,13 +18,6 @@
 
 
 {
-"name": "Movie",
-"image": "https://www.img.in.th/images/ce528f5c6f0a437e03a1248ccc39f476.jpg",
-"url": "https://dl.dropbox.com/s/knf9yls6gidxsh4/MOVIE4.w3u",
-"import": false
-}, 
-
-{
 "name": "Movie1",
 "image": "https://nolink.in/wp-content/uploads/2020/09/20200128_200128_000696-1.jpg",
 "url": "https://dl.dropbox.com/s/o1wao7bndnts76r/G-MOVIE.w3u?dl=0",
@@ -65,6 +58,14 @@
 "name": "หนัง4K",
 "image": "https://www.picz.in.th/images/2018/01/19/4KBanner-Big.jpg",
 "url": "https://dl.dropbox.com/s/kkyp4fxr8mw5sb3/4k.txt",
+"import": false
+},
+
+{
+"name": "4k Ultra",
+"image": "https://image.freepik.com/free-vector/4k-ultra-hd-sign-vector_97458-70.jpg",
+"url": "https://docs.google.com/uc?export=download&id=1dEG9LM-ZWaxaDdGcg1U3c9dzfkXq1j32",
+"info": "ของฟรีทั้งนั้น",
 "import": false
 },
 
