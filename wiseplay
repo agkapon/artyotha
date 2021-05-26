@@ -85,11 +85,19 @@
 "url": "https://dl.dropbox.com/s/h5m8j7i3eyq742q/Radio.w3u?dl=0",
 "import": false 
 },
-{
 
+{
 "name": "ช่องการศึกษา",
 "image": "https://www.234.in.th/images/2021/03/26/Education.md.png",
 "url": "https://dl.dropbox.com/s/wbzonkgl8n7mp7o/Education.w3u?dl=0",
+"import": false
+},
+
+{
+
+"name": "ทดสอบหนัง",
+"image": "https://freemovie-4k.com/images/movie/p4lIv2P4FNC1xWVAReeh0edTBoXGrrE.jpg",
+"url": "https://freemovie-4k.com/Deliver-Us-from-Evil-2020-%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%88%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B8%A3%E0%B8%81",
 "import": false
 
 },
