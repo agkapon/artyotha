@@ -71,10 +71,9 @@
 },
 
 {
-"name": "4k Ultra",
-"image": "https://image.freepik.com/free-vector/4k-ultra-hd-sign-vector_97458-70.jpg",
-"url": "http://homefile.ddns.net:8081",
-"info": "ของฟรีทั้งนั้น",
+"name": "ภาพยนตร์ ULTRAHD 4K",
+"image": "http://homefile.ddns.net:8081/pic/4k.png",
+"url": "http://homefile.ddns.net:8081/vipdata/4k.php",
 "import": false
 },
 
