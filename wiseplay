@@ -93,7 +93,12 @@
 "import": false
 },
 
-
+{
+"name": "ซีรี่ดูเอง",
+"image": "https://image.baan-series.com/uploads/20200405/be1e9eafd27f15ebcf463145098e5f90e60b6d7d.png?v=575",
+"url": "",
+"import": false
+},
 
 ]
 }
