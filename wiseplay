@@ -1,8 +1,8 @@
 {
 "name": "AGKAPON STUDIO",
-"author": "สำหรับใช้ส่วนตัวเท่านั้น อัฟเดท 28-5-64",
+"author": "สำหรับใช้ส่วนตัวเท่านั้น อัฟเดท  2-6-64",
 "image": "https://www.isranews.org/images/2018/isranews/04/25042018.jpg",
-"url": "https://raw.githubusercontent.com/agkapon/artyotha/master/wiseplay",
+"url": "https://drive.google.com/uc?export=download&id=1jyQYAFs9U-ALlgJGD3VD9JsdKsBH_Vaw",
 "groups": [
 
 {
@@ -13,12 +13,11 @@
 },	
 
 {
-"name": "VIP Playlist Wiseplay by iPlayTV TEAM",
-"image": "http://homefile.ddns.net:8081/pic/vipmember.png",
-"url": "https://pastebin.com/raw/LXag5JPs",
+"name": "Maister Studio",
+"image": "https://media3.giphy.com/media/3o7WTx7X5YfBT4lq8M/giphy.gif",
+"url": "http://tiny.cc/mst052664",
 "import": false
 },
-
 
 {
 "name": "ช่องทีวีดิจิตอล",
@@ -28,13 +27,13 @@
 },	
 
 
-
 {
 "name": "⚽ช่องกีฬา",
 "image": "https://fbi.dek-d.com/27/0399/1046/117107237?v=6.98",
 "url": "https://dl.dropbox.com/s/fwms0ouzqnynogs/Sports.w3u?dl=0",
 "import": false 
-},	
+},
+
 
 
 {
@@ -52,18 +51,19 @@
 },
 
 { 
-"name": "หนังรวม",
+"name": "รวมภาพยนตร์",
 "image": "https://sites.google.com/site/doodeemovieshd/_/rsrc/1406463873718/home/The-Expendables-3.jpg",
-"url": "https://raw.githubusercontent.com/agkapon/artyotha/master/movie",
+"url": "https://drive.google.com/uc?export=download&id=1HMfUvelGTKuake1R9-9MCPgwKyxNUg3d",
 "import": false
 },
 
 {
 "name": "รวมซีรีย์",
 "image": "https://www.img.in.th/images/1b5e925b6ed5e3fa941a95fe99a57ff7.jpg",
-"url": "https://raw.githubusercontent.com/agkapon/artyotha/master/serie",
+"url": "https://drive.google.com/uc?export=download&id=1pw7ebQb7wOiobkDqumi81BgqRW5BReFd",
 "import": false
 },
+
 
 
 {
@@ -72,6 +72,7 @@
 "url": "https://dl.dropbox.com/s/t26xscmikan8jta/Kids.w3u?dl=0",
 "import": false 
 },
+
 {
 "name": "ช่องสารคดี",
 "image": "https://www.234.in.th/images/2021/03/26/knowledge.md.png",
@@ -92,6 +93,7 @@
 "url": "https://dl.dropbox.com/s/wbzonkgl8n7mp7o/Education.w3u?dl=0",
 "import": false
 },
+
 
 
 ]
