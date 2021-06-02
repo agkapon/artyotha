@@ -1,6 +1,6 @@
 {
-"name": "ซีรี่",
-"author": "อัฟเดทล่าสุด  26-5-64",
+"name": "รวมซีรี่",
+"author": "อัฟเดทล่าสุด  2-6-64",
 "image": "https://dl.dropbox.com/s/0cvod8lolpwgy6w/k%20Series.png?dl=0",
 "url": "",
 "groups": [
@@ -30,7 +30,13 @@
 },
 
 
-
+{
+"name": "Series คลังใหญ่",
+"image": "https://netflixstudies.files.wordpress.com/2018/05/netflix-originals.jpg?w=1080",
+"url": "https://docs.google.com/uc?export=download&id=1eTWk2fE4B-4NVrxswNYXaAyZ8n4fgbmK",
+"info": "ของฟรีทั้งนั้น",
+"import": false
+},
 
 
 
