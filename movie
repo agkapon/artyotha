@@ -1,8 +1,8 @@
 {
 "name": "movie",
-"author": "อัฟเดทล่าสุด  28-5-64",
+"author": "อัฟเดทล่าสุด  2-6-64",
 "image": "https://sv1.picz.in.th/images/2020/12/01/j3Socg.png",
-"url": "",
+"url": "https://drive.google.com/uc?export=download&id=1HMfUvelGTKuake1R9-9MCPgwKyxNUg3d",
 "groups": [
 
 
@@ -17,16 +17,30 @@
 },
 
 {
-"name": "Movie",
+"name": "Movie1",
+"image": "https://www.img.in.th/images/ce528f5c6f0a437e03a1248ccc39f476.jpg",
+"url": "https://dl.dropbox.com/s/0u3l21hbyi9dgwn/MOVIE4.w3u",
+"import": false
+}, 
+
+{
+"name": "Movie2",
 "image": "http://ryanjayreviews.com/wp-content/uploads/2013/10/RJMC-4-Web-2.png",
 "url": "http://homefile.ddns.net:8081/vipdata/interfilm.php",
 "import": false
 },
 
+{
+"name": "Movieหนังเยอะ",
+"image": "http://ryanjayreviews.com/wp-content/uploads/2013/10/RJMC-4-Web-2.png",
+"url": "https://docs.google.com/uc?export=download&id=13OvT2r-l4jnJ25PMAqCtCLDnglUv78h8",
+"info": "ของฟรีทั้งนั้น",
+"import": false
+},
 
 
 {
-"name": "Movie1",
+"name": "Movie3",
 "image": "https://nolink.in/wp-content/uploads/2020/09/20200128_200128_000696-1.jpg",
 "url": "https://dl.dropbox.com/s/o1wao7bndnts76r/G-MOVIE.w3u?dl=0",
 "import": false
@@ -47,26 +61,18 @@
 },
 
 
-{ 
-"name": "คลังหนัง1", 
-"image": "https://sites.google.com/site/doodeemovieshd/_/rsrc/1406463873718/home/The-Expendables-3.jpg", 
-"url": "http://tiny.cc/gn7ytz", 
-"import": false
-},
-
-
-{
-"name": "หนัง4K",
-"image": "https://sites.google.com/site/doodeemovieshd/_/rsrc/1406463873718/home/The-Expendables-3.jpg",
-"url": "https://dl.dropbox.com/s/501es5g5xrcselq/Real%204k.w3u",
-"import": false
-},
-
 {
 "name": "หนัง4K",
 "image": "https://www.picz.in.th/images/2018/01/19/4KBanner-Big.jpg",
 "url": "https://dl.dropbox.com/s/54yux0125jkff6x/4k.txt",
 "import": false
+},
+
+{ "name": "หนัง4K", 
+"image": "http://gg.gg/uq910",
+"imageScale": "centerCrop", 
+"url": "http://tiny.cc/qo7ytz", 
+"import": false 
 },
 
 {
@@ -79,7 +85,7 @@
 {
 "name": "รวมหนังภาคต่อ",
 "image": "https://i.imgur.com/gQz4ijq.png",
-"url": "https://dl.dropbox.com/s/seq6w3f9qf8jir9/mix%20movie.w3u",
+"url": "https://dl.dropbox.com/s/qxe35c59abgc14h/mix%20movie.w3u",
 "import": false
 }, 
 
@@ -102,18 +108,19 @@
 {
 "name": "หนังไทย",
 "image": "https://www.img.in.th/images/40fdd96ce984cbac4df3800737297b17.jpg",
-"url": "https://dl.dropbox.com/s/743pakaxzdfxrbv/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2.txt",
+"url": "https://dl.dropbox.com/s/1dbw7hb0m02lvpa/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2.txt",
 "import": false
 },
 
 
 {
-"name": "หนังผู้ใหญ่",
+"name": "",
 "image": "https://sv1.picz.in.th/images/2021/01/25/l8GyHz.png",
-"parental": "true",
-"url": "https://raw.githubusercontent.com/agkapon/artyotha/master/หนังผู้ใหญ่",
+"url": "https://drive.google.com/uc?export=download&id=1NU4XuAd60qfsNy7El_eDKd-jsQovv01D",
 "import": false
 },
+
+
 
 ]
 }
