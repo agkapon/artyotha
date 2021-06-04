@@ -1,8 +1,8 @@
 {
-"name": "AGKAPON GITHUB",
-"author": "สำหรับใช้ส่วนตัวเท่านั้น อัฟเดท  2-6-64",
+"name": "AGKAPON STUDIO",
+"author": "สำหรับใช้ส่วนตัวเท่านั้น อัฟเดท  4-6-64",
 "image": "https://www.isranews.org/images/2018/isranews/04/25042018.jpg",
-"url": "https://raw.githubusercontent.com/agkapon/artyotha/master/wiseplay",
+"url": "https://drive.google.com/uc?export=download&id=1jyQYAFs9U-ALlgJGD3VD9JsdKsBH_Vaw",
 "groups": [
 
 {
@@ -26,17 +26,13 @@
 "import": false
 },	
 
-
 {
 "name": "ช่องทีวีดิจิตอลสำรอง",
 "author": "ฟรีทีวี​ ทีวีดิจิตอล​",
-"image": "https://digital.nbtc.go.th/App_Themes/Stylesheet/images/LOGO.png",
+"image": "https://dl.dropbox.com/s/wyyn7v59icvs644/DVB%20T2.png",
 "url": "https://bit.ly/37HrPGe",
 "import": false
 },
-
-
-
 
 {
 "name": "⚽ช่องกีฬา",
@@ -45,15 +41,13 @@
 "import": false 
 },
 
-
 {
 "name": "⚽ช่องกีฬา สำรอง​",
 "author": "ทีวี​กีฬา",
-"image": "https://images.squarespace-cdn.com/content/v1/555d2d01e4b016bdc9570a17/1602778955789-KK0Y33FRW7JV1DSDCJDM/ke17ZwdGBToddI8pDm48kGIkdR3rjYax1q6u51nlp34UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYwL8IeDg6_3B-BRuF4nNrNcQkVuAT7tdErd0wQFEGFSnMtPNJaLblymtlJycrHIdkPyVypI68CzjcrnnBwrqT4_5uWT86qi5p1EHBc9-sgKOQ/sports_fill.png​",
+"image": "https://fbi.dek-d.com/27/0399/1046/117107237?v=6.98",
 "url": "https://bit.ly/36Ve7R0",
 "import": false
 },
-
 
 
 {
@@ -63,11 +57,10 @@
 "import": false
 },
 
-
 {
 "name": "ช่องหนังออนไลน์ สำรอง",
 "author": "ทีวีดูหนัง​",
-"image": "https://www.mypuertoricoinfo.com/wp-content/uploads/2020/12/logo-movie.png",
+"image": "https://dl.dropbox.com/s/oqs144w64r7z5j6/movie%20live.png",
 "url": "https://bit.ly/39ViBJc",
 "import": false
 },
@@ -91,6 +84,20 @@
 "name": "รวมซีรีย์",
 "image": "https://www.img.in.th/images/1b5e925b6ed5e3fa941a95fe99a57ff7.jpg",
 "url": "https://drive.google.com/uc?export=download&id=1pw7ebQb7wOiobkDqumi81BgqRW5BReFd",
+"import": false
+},
+
+{ 
+"name": "หนังการ์ตูน",
+"image": "https://www.img.in.th/images/91951a558553e44ee181406db5963005.jpg",
+"url": "https://bit.ly/31Tfqg5",
+"import": false
+},
+
+{
+"name": " หนังการ์ตูนอนิเมชั่น ",
+"image": "https://sv1.picz.in.th/images/2021/01/25/lrLqHz.png",
+"url": "https://www.dropbox.com/s/n9na046rj2ngq04/%E0%B8%AD%E0%B8%99%E0%B8%B4%E0%B9%80%E0%B8%A1%E0%B9%88%E0%B8%B0%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99.w3u?dl=1",
 "import": false
 },
 
