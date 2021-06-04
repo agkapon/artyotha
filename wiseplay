@@ -28,10 +28,30 @@
 
 
 {
+"name": "ช่องทีวีดิจิตอลสำรอง",
+"author": "ฟรีทีวี​ ทีวีดิจิตอล​",
+"image": "https://digital.nbtc.go.th/App_Themes/Stylesheet/images/LOGO.png",
+"url": "https://bit.ly/37HrPGe",
+"import": false
+},
+
+
+
+
+{
 "name": "⚽ช่องกีฬา",
 "image": "https://fbi.dek-d.com/27/0399/1046/117107237?v=6.98",
 "url": "https://dl.dropbox.com/s/fwms0ouzqnynogs/Sports.w3u?dl=0",
 "import": false 
+},
+
+
+{
+"name": "⚽ช่องกีฬา สำรอง​",
+"author": "ทีวี​กีฬา",
+"image": "https://images.squarespace-cdn.com/content/v1/555d2d01e4b016bdc9570a17/1602778955789-KK0Y33FRW7JV1DSDCJDM/ke17ZwdGBToddI8pDm48kGIkdR3rjYax1q6u51nlp34UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYwL8IeDg6_3B-BRuF4nNrNcQkVuAT7tdErd0wQFEGFSnMtPNJaLblymtlJycrHIdkPyVypI68CzjcrnnBwrqT4_5uWT86qi5p1EHBc9-sgKOQ/sports_fill.png​",
+"url": "https://bit.ly/36Ve7R0",
+"import": false
 },
 
 
@@ -42,6 +62,16 @@
 "url": "https://dl.dropbox.com/s/k98tbbxja1b6ok1/Movies.w3u?dl=0",
 "import": false
 },
+
+
+{
+"name": "ช่องหนังออนไลน์ สำรอง,
+"author": "ทีวีดูหนัง​",
+"image": "https://www.mypuertoricoinfo.com/wp-content/uploads/2020/12/logo-movie.png",
+"url": "https://bit.ly/39ViBJc",
+"import": false
+},
+
 
 {
 "name": "Entertainment",
