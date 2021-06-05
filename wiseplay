@@ -1,6 +1,6 @@
 {
 "name": "AGKAPON STUDIO",
-"author": "สำหรับใช้ส่วนตัวเท่านั้น อัฟเดท  4-6-64",
+"author": "สำหรับใช้ส่วนตัวเท่านั้น อัฟเดท  5-6-64",
 "image": "https://www.isranews.org/images/2018/isranews/04/25042018.jpg",
 "url": "https://raw.githubusercontent.com/agkapon/artyotha/master/wiseplay",
 "groups": [
@@ -83,7 +83,7 @@
 {
 "name": "รวมซีรีย์",
 "image": "https://www.img.in.th/images/1b5e925b6ed5e3fa941a95fe99a57ff7.jpg",
-"url": "https://drive.google.com/uc?export=download&id=1pw7ebQb7wOiobkDqumi81BgqRW5BReFd",
+"url": "https://raw.githubusercontent.com/agkapon/artyotha/master/serie",
 "import": false
 },
 
