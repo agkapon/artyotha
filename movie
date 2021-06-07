@@ -1,6 +1,6 @@
 {
 "name": "movie",
-"author": "อัฟเดทล่าสุด  5-6-64",
+"author": "อัฟเดทล่าสุด  7-6-64",
 "image": "https://sv1.picz.in.th/images/2020/12/01/j3Socg.png",
 "url": "https://raw.githubusercontent.com/agkapon/artyotha/master/movie",
 "groups": [
@@ -30,13 +30,6 @@
 "import": false
 },
 
-{
-"name": "Movieหนังเยอะ",
-"image": "http://ryanjayreviews.com/wp-content/uploads/2013/10/RJMC-4-Web-2.png",
-"url": "https://docs.google.com/uc?export=download&id=13OvT2r-l4jnJ25PMAqCtCLDnglUv78h8",
-"info": "ของฟรีทั้งนั้น",
-"import": false
-},
 
 
 {
@@ -68,7 +61,24 @@
 "import": false
 },
 
-
+{ 
+"name": " 4K SV1 380สถานี",
+ "image": "http://tiny.cc/po7ytz", 
+ "url": "https://www.dropbox.com/s/zlfx95wpt5kaamo/Real%204K%20UHD%20%20SV%201.bin?dl=1", 
+ "import": false
+ }, 	 
+ {
+ "name": " 4K SV2 560สถานี", 
+ "image": "http://tiny.cc/po7ytz", 
+ "url": "https://www.dropbox.com/s/xy81ux9l5s6zjov/Real%204K%20UHD%20%20SV%202.bin?dl=1", 
+ "import": false
+ }, 								 								 		 
+ {
+ "name": "Series UHD 4K", 
+ "image": "http://tiny.cc/po7ytz", 
+ "url": "https://www.dropbox.com/s/swu6esb15wwsro9/Series%20UHD%204K%20.bin?dl=1", 
+ "import": false 
+},
 {
 "name": "ภาพยนตร์ ULTRAHD 4K",
 "image": "http://homefile.ddns.net:8081/pic/4k.png",
@@ -98,9 +108,10 @@
 {
 "name": "",
 "image": "https://sv1.picz.in.th/images/2021/01/25/l8GyHz.png",
-"url": "https://drive.google.com/uc?export=download&id=1NU4XuAd60qfsNy7El_eDKd-jsQovv01D",
+"url": "https://dl.dropbox.com/s/25xpestvwzull2n/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%881.w3u?dl=0",
 "import": false
 },
+
 
 
 
