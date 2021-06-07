@@ -22,9 +22,10 @@
 },
 
 {
-"name": "ช่อง  fuso ของแท้",
-"image": "http://www.guimee.com/file/attachment/2016/07/7b3e317d7c214322705ce5ff2383792d.png",
-"url": "http://tiny.cc/Fuso-uhd6"
+"name": "Truck2Hand-◉‿◉",
+"author": "(・∀・)",
+"image": "https://static-old.truck2hand.com/content/large/1030000/content-1028611-d9e60d4735ceb382e0c55aae0322c3e4.jpg",
+"url": "https://drive.google.com/uc?id=1fctsiMFvf7SqfIlyQuH0x7AXBJ4oq_v5"
 },
 
 
@@ -43,9 +44,6 @@
 "url": "https://bit.ly/37HrPGe",
 "import": false
 },
-
-
-
 
 {
 "name": "⚽ช่องกีฬา",
@@ -72,9 +70,9 @@
 
 {
 "name": "ช่องหนังออนไลน์ สำรอง",
-"author": "ทีวีดูหนัง​",
-"image": "https://dl.dropbox.com/s/oqs144w64r7z5j6/movie%20live.png",
-"url": "https://dl.dropbox.com/s/3tsa2n47km2wgto/Cable%20Sat.txt?dl=0",
+"author": "AGKAPON STUDIO",
+"image":"https://data.whicdn.com/images/316393717/original.gif",
+"url": "https://dl.dropbox.com/s/m1c3dfhn7ddxhcj/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C.w3u?dl=0",
 "import": false
 },
 
@@ -89,28 +87,30 @@
 { 
 "name": "รวมภาพยนตร์",
 "image": "https://sites.google.com/site/doodeemovieshd/_/rsrc/1406463873718/home/The-Expendables-3.jpg",
-"url": "https://raw.githubusercontent.com/agkapon/artyotha/master/movie",
+"url": "https://dl.dropbox.com/s/6bmg9gpmjf9uhr4/%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87.w3u?dl=0",
 "import": false
 },
 
 {
 "name": "รวมซีรีย์",
 "image": "https://www.img.in.th/images/1b5e925b6ed5e3fa941a95fe99a57ff7.jpg",
-"url": "https://raw.githubusercontent.com/agkapon/artyotha/master/serie",
+"url": "https://dl.dropbox.com/s/tixkl1j44zjxl0q/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88.w3u?dl=0",
 "import": false
 },
 
-{ 
-"name": "หนังการ์ตูน",
-"image": "https://www.img.in.th/images/91951a558553e44ee181406db5963005.jpg",
-"url": "https://bit.ly/31Tfqg5",
-"import": false
-},
+
 
 {
 "name": " หนังการ์ตูนอนิเมชั่น ",
 "image": "https://sv1.picz.in.th/images/2021/01/25/lrLqHz.png",
 "url": "https://www.dropbox.com/s/n9na046rj2ngq04/%E0%B8%AD%E0%B8%99%E0%B8%B4%E0%B9%80%E0%B8%A1%E0%B9%88%E0%B8%B0%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99.w3u?dl=1",
+"import": false
+},
+
+{
+"name": "ซีรี่ย์ อนิเม่ะ",
+"image": "https://www.flashfly.net/wp/wp-content/uploads/2020/12/Dragon-Ball-Super-Group-Cast-Feature-Image.jpg",	
+"url": "https://dl.dropbox.com/s/n9ad1fxpu5zo9tb/Dragonball.w3u?dl=0",
 "import": false
 },
 
@@ -143,6 +143,7 @@
 "url": "https://dl.dropbox.com/s/wbzonkgl8n7mp7o/Education.w3u?dl=0",
 "import": false
 },
+
 
 
 
