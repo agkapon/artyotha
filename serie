@@ -1,6 +1,6 @@
 {
 "name": "รวมซีรี่",
-"author": "อัฟเดทล่าสุด  5-6-64",
+"author": "อัฟเดทล่าสุด  7-6-64",
 "image": "https://dl.dropbox.com/s/0cvod8lolpwgy6w/k%20Series.png?dl=0",
 "url": "https://raw.githubusercontent.com/agkapon/artyotha/master/serie",
 "groups": [
@@ -29,15 +29,12 @@
 "import": false
 },
 
-
 {
-"name": "Series คลังใหญ่",
-"image": "https://netflixstudies.files.wordpress.com/2018/05/netflix-originals.jpg?w=1080",
-"url": "https://docs.google.com/uc?export=download&id=1eTWk2fE4B-4NVrxswNYXaAyZ8n4fgbmK",
-"info": "ของฟรีทั้งนั้น",
+"name": "Series",
+"image": "https://i.pinimg.com/originals/25/3b/41/253b419f5a7803bbfca3df9a1b99b1ce.png",
+"url": "https://dl.dropbox.com/s/rnkms2s9v8la378/Real%20Series.w3u?dl=0",
 "import": false
 },
-
 
 
 ]
